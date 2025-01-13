@@ -1,0 +1,127 @@
+Jan 7, 2024
+Data Visualization and infographics are not the same thing.
+Data Visualizations are used in many fields:
+	- Geonomics and Bio, researchers explore DNA sequences, variations, and genes
+	- Map crime patterns, identify trends in criminal activity
+
+Tableau and PowerBI make it easy to derive insights from data
+DV begins with a question you are seeking to answer
+Observation and inference/interpretation are outcomes of DV
+
+Learning Goals:
+1) Define data visualization (DV)
+2) Explain differences and similarities between DV and infographic
+3) Create a visualization based on pre-defined question
+4) Observe and interpret the results of DV
+
+Data Visualization == representation of data/information in a graph, chart
+or other visual formats.
+
+DV vs Infographic
+
+Purpose:
+DV == Represents data in a visual format for analysis and insight
+Info == Tell a concise visual story, often simplifying information
+
+Data Complexity:
+DV == Used for complex data emphasizing accurate data representation
+Info == Simplifies data, presenting key insights in a straightforward manner
+
+Interactivity:
+DV == May include interactive elements; allowing users to explore/analyze data
+Info == Less interactive; static presentation
+
+Visual Design:
+DV == Clarity and accuracy with customizable visualizations
+Info == Creative design elements to enhance visual appeal
+
+Narrative Flow:
+DV == Focuses on showing patterns and relationships
+Info == Sequential flow; guiding the viewer through a story or related facts.
+
+Tools:
+DV == Specialized tools like Tableau, PowerBI, Python or D3.js
+Info == Graphic design softwares like Adobe, Canva, or Piktochart
+
+Terms in DV
+Big Data -> Structured (organized stored in relational database),
+semi-structured (json or xml) and unstructured data (text documents, pics,text)
+
+Data Science -> Uses big data and utilizes statistics, ML, domain
+
+Data Visualization -> Graphical analysis of data or communicates results from
+data analysis (data science), insight, infos and trends are evident
+
+Infographics -> Visual representations that tells a story
+
+For example in real life we will look at an apple watch
+
+Data Science: uses statistcal algorithms, and models, gathered from sensors
+of the apple watch. Using ML, the watch can predict and track users
+
+DV: Provides insights of Data Science allowing users to make informed decisions
+such as charts to show current progress in trends
+
+Infographics: Summarizes overall performance, often user-friendly to view
+
+DVs
+- Can also tell a story
+- Answer a question
+- Evoke new questions
+- Interpret results
+
+Factors that leads to DV being a popular topic
+- Open Data Initiatives
+- IoT (internet of things)
+- Data Science
+- Data Analysis Tools
+- Data Democratization
+- Data-Driven Culture
+- The appeal of storytelling
+
+Types of Data:
+OPEN DATA -> makes information more accessible to wider audience, promotes
+transparency and collaboration. Often promotes innovations and data driven
+decisions.
+IoT DATA -> gathers live data for available routes, public safety like
+finding emergency vehicles, track city owned vehicles.
+
+Storytelling in DV can help enhance the impact of findings and persuade
+stakeholders to take action based on insights. Rapid decision-making could
+utilize real-time data to quickly grasp the current state of affairs,
+and identify any issues. For example, stock market.
+
+Data Democratization
+Open access to data. Data is made available to a broader audience, aligns with
+the use of visualization to make data more understandable for non-experts
+
+Data-Driven Decision Culture
+Cultural Shift. Visualization serves as a bridge between raw data and
+actionable insights, empowering organizations to make informed decisions
+based on evidence and analysis.
+
+In-Class exercise: How to use google trends.
+1) Search a topic and click explore
+2) Apply proper filters (like date range)
+3) Analyze spikes, regional areas
+
+Assignment #1: Test out Google Trends
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
