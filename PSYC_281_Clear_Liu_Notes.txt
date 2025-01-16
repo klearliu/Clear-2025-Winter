@@ -1,4 +1,4 @@
-Jan 10, 2024
+Jan 10, 2025
 
 Textbook: Introduction to Learning Behavior (6th Ed) Wadsworth Cengage Learning
 IBSN: 9780357658475
@@ -16,3 +16,45 @@ Exam Dates
 Ch1-4 | Feb 5, 2025 6-7:30pm
 Ch5-8 | Mar 5, 2025 6-7:30pm
 Ch9-12 | Apr 5, 2025 6-7:30pm
+
+Jan 16, 2025
+
+Aristotle
+"Everything we know is inborn (nativist/nature perspective)"
+"Knowledge is acquired through experience (empiricist/nurutre perspective)"
+
+    Four Laws of Association:
+    1) Law of Similarity: Associate by similarities
+    2) Law of Contrast: Associate by opposite, the thought of one think queues the opposite
+    3) Law of Contiguity: Associate by time and longevity 
+    4) Law of Frequency: Associate things that co-occur often
+
+Descartes
+"Human behaviour are not governed by free-will or reason"
+Mind-Body (Cartesian) Dualism
+    Mind: Voluntary behaviour
+    Body: Involuntary behaviour (injury causes a reaction w/o will)
+Only humans have a mind
+
+British Empiricists avocated that all knowledge is due to experience:
+    John Locke:
+        All ideas are acquired through experience, haphazardly
+        Humans are born Tabula Rasa; a clean slate
+
+Structuralism: First scientific study of human experience
+    Edward B. Titchener
+        Studied the basic elements of conscious experience through a technique called introspection
+
+Funtionalism: Psychology should study the adaptive processes of the mind (asking why)
+    William James
+        Based on Darwin's theory of evolution
+        Study of non-human animals encouraged to give insight into human behaviour
+
+Theory of Evolution
+    Provides how changes occur in a species across generations through Natural Selection
+    Difference between humans and non-human animals seen as one of degree, not kind.
+
+Behaviourism
+    John Watson
+        Natural science approach and emphasises the study of environmental influences on observable behaviour
+        Psychology should only focus on observables
