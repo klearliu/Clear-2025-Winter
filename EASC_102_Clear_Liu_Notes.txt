@@ -1,1 +1,56 @@
 Jan 7, 2025
+
+Topics: Earth-sun relationship, Atmospheric circulation, weather, climates, soils, landscapes
+paleoclimate, climate change
+
+Labs
+    - Must wear lab coat and close toed shoes
+    - Labs are due seven days after the lab session
+    - Geometry kit
+
+Jan 9, 2025
+
+Environmental Earth Science == the study of interconnected systems that make up the habitable portion of the Earth
+
+Types of spheres on Earth (sub systems)
+    - Atmosphere: gasses surrounding earth
+    - Hydrosphere: water of the earth
+        - Cryosphere: water at its frozen state (below 0 degrees celsius)
+    - Lithosphere: earth's crust and upper mantle (rocks)
+    - Biosphere: all living things of earth
+
+Systems on Earth | Inputs -> Actions -> Outputs
+inputs: Energy and matter
+actions: Convert energy and matter to other forms, store energy and matter
+output: Energy and matter
+
+Conservation Laws of Mass and Energy
+Mass and Energy is neither destroyed nor created (for earth systems)
+Energy is the capacity to change the motion
+    [1] Storage Change = Input - Output
+
+Three types of systems
+Open system: Energy and matter can flow in and out (ex. a car)
+    inputs: energy matter (fuel)
+    actions: energy and material conversions, energy and material Storage (conversions)
+    outputs: energy matter (exhaust)
+
+Closed system: Matter is contained, energy can flow in and out (ex. photosynthesis)
+    inputs: CO2, water, sunlight
+    actions: Converted to simple sugars
+    outputs: o2 and water
+
+Isolated system: No matter or energy transference
+
+System Feedbacks:
+    - Feedback: output from a systm that also serves as an input to the same system
+        - Negative: discourages change in the system (stability)
+        - Positive: encourages change in the system (runaway)
+
+System Equilibrium
+    Steady-state: amounts of energy and matter fluctuate around a stable average
+    Dynamic: amounts of energy and matter follow a changing trend over time and system adjusts
+
+Earth as a Closed System: matter stays put, energy enters and leaves
+
+Jan 11, 2025
