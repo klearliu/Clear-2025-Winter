@@ -19,15 +19,21 @@ Ch9-12 | Apr 5, 2025 6-7:30pm
 
 Jan 16, 2025
 
+Historical Perspectives on Psychology Introduction
+
 Aristotle
 "Everything we know is inborn (nativist/nature perspective)"
 "Knowledge is acquired through experience (empiricist/nurutre perspective)"
 
     Four Laws of Association:
-    1) Law of Similarity: Associate by similarities
-    2) Law of Contrast: Associate by opposite, the thought of one think queues the opposite
-    3) Law of Contiguity: Associate by time and longevity 
-    4) Law of Frequency: Associate things that co-occur often
+    1) Law of Similarity: Connect things that are alike
+        (ex. thinking of a cat when we see a lion).
+    2) Law of Contrast: Thoughts of one extreme lead to thoughts of its opposite
+        (ex. white leads to black).
+    3) Law of Contiguity: We link things that happen close together in time or space
+        (ex. lightning strike and hearing thunder soon after).
+    4) Law of Frequency: The more often two things occur together, the stronger their association
+        (ex. two people being together leads to them being close).
 
 Descartes
 "Human behaviour are not governed by free-will or reason"
@@ -59,27 +65,31 @@ Behaviourism
         Natural science approach and emphasises the study of environmental influences on observable behaviour
         Psychology should only focus on observables
 
+S-R Theory: Learning involves attaching specific responses to specific stimuli in evnvironment
+
 The Five Schools of Behaviourism
     1) Watson's Methodological Behaviourism
         Mechanistic (molecular) theory of Behaviourism
             An envioronmental event (stimulus) and specific behaviour (response)
         Psychologists should only study environmental influences on behaviours that can be directly observed
-        EX: Shocking a rat, see results if done again in a different area 
+        EX: A rat is shocked, so it will try to avoid that area.
     2) Hull's Neobehaviourism
         Intervening variables influence behaviour (feelings influencing behaviour)
         Internal states like current status alters observable behaviour
-        EX: A rat that just ate vs a rat that did not eat, which could solve a maze, internal state of hunger
-        motivated the rat to change its behaviour
+        EX: A hungry rat performs differently in a maze than a non-hungry one.
         These things must be objectively identified, so you cannot say the rat is hungry, but can say the rat hasn't
         eaten in 5 days.
     3) Tolman's Cognitive Behaviourism
         Scientists must consider the purpose or goal of an organism to really understand behaviour (current objectives influencing behaviour)
         EX: two hungry rats race to the end of a maze, one is aware of the prize and the other is not, the one that is aware
-        will behave differently.
+        will behave differently. Cognitive map.
     4) Bandura's Social Learning Theory
         Cognitive-behavioural approach that emphasizes the role of observational learning and cognitive variables in explaining human behaviour.
         Basically reciprocal determinism or molar theory
-        EX: Environmental events affects thoughts and feelings which also affects how they act, or the other way around (Not linear).
+        EX: Environmental influences can affect thought and feelings, or thoughts and feelings may influence actions.
     5) Skinner's Radical Behaviourism
         Emphasized the influence of the environment on obserbale behaviour rejects the use of internal events to explain behaviour.
         Only Environmental events can change thoughts and feelings and/or observable behaviour
+
+Behaviour analysis is the basic science that is concerned with investigating principles of behaviour
+Applied behaviour analysis is the technology that applies these principles to the practical modification of behaviour in the real world.
