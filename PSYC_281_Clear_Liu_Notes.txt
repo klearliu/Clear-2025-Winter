@@ -19,10 +19,12 @@ Ch9-12 | Apr 5, 2025 6-7:30pm
 
 Jan 16, 2025
 
-Historical Perspectives on Psychology Introduction
+Methoed of Research in Psychology
+
+Plato
+"Everything we know is inborn (nativist/nature perspective)"
 
 Aristotle
-"Everything we know is inborn (nativist/nature perspective)"
 "Knowledge is acquired through experience (empiricist/nurutre perspective)"
 
     Four Laws of Association:
@@ -66,6 +68,8 @@ Behaviourism
         Psychology should only focus on observables
 
 S-R Theory: Learning involves attaching specific responses to specific stimuli in evnvironment
+Behaviour Analyst: basic principles of behaviour
+Applied behaviour analyst: applies basic principles to developing better metheods
 
 The Five Schools of Behaviourism
     1) Watson's Methodological Behaviourism
@@ -74,7 +78,7 @@ The Five Schools of Behaviourism
         Psychologists should only study environmental influences on behaviours that can be directly observed
         EX: A rat is shocked, so it will try to avoid that area.
     2) Hull's Neobehaviourism
-        Intervening variables influence behaviour (feelings influencing behaviour)
+        Intervening variables influence behaviour (feelings influencing behaviour) also molecular
         Internal states like current status alters observable behaviour
         EX: A hungry rat performs differently in a maze than a non-hungry one.
         These things must be objectively identified, so you cannot say the rat is hungry, but can say the rat hasn't
@@ -82,7 +86,7 @@ The Five Schools of Behaviourism
     3) Tolman's Cognitive Behaviourism
         Scientists must consider the purpose or goal of an organism to really understand behaviour (current objectives influencing behaviour)
         EX: two hungry rats race to the end of a maze, one is aware of the prize and the other is not, the one that is aware
-        will behave differently. Cognitive map.
+        will behave differently. Cognitive map. Latent Learning
     4) Bandura's Social Learning Theory
         Cognitive-behavioural approach that emphasizes the role of observational learning and cognitive variables in explaining human behaviour.
         Basically reciprocal determinism or molar theory
