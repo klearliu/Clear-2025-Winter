@@ -58,3 +58,28 @@ Behaviourism
     John Watson
         Natural science approach and emphasises the study of environmental influences on observable behaviour
         Psychology should only focus on observables
+
+The Five Schools of Behaviourism
+    1) Watson's Methodological Behaviourism
+        Mechanistic (molecular) theory of Behaviourism
+            An envioronmental event (stimulus) and specific behaviour (response)
+        Psychologists should only study environmental influences on behaviours that can be directly observed
+        EX: Shocking a rat, see results if done again in a different area 
+    2) Hull's Neobehaviourism
+        Intervening variables influence behaviour (feelings influencing behaviour)
+        Internal states like current status alters observable behaviour
+        EX: A rat that just ate vs a rat that did not eat, which could solve a maze, internal state of hunger
+        motivated the rat to change its behaviour
+        These things must be objectively identified, so you cannot say the rat is hungry, but can say the rat hasn't
+        eaten in 5 days.
+    3) Tolman's Cognitive Behaviourism
+        Scientists must consider the purpose or goal of an organism to really understand behaviour (current objectives influencing behaviour)
+        EX: two hungry rats race to the end of a maze, one is aware of the prize and the other is not, the one that is aware
+        will behave differently.
+    4) Bandura's Social Learning Theory
+        Cognitive-behavioural approach that emphasizes the role of observational learning and cognitive variables in explaining human behaviour.
+        Basically reciprocal determinism or molar theory
+        EX: Environmental events affects thoughts and feelings which also affects how they act, or the other way around (Not linear).
+    5) Skinner's Radical Behaviourism
+        Emphasized the influence of the environment on obserbale behaviour rejects the use of internal events to explain behaviour.
+        Only Environmental events can change thoughts and feelings and/or observable behaviour
