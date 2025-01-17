@@ -1,4 +1,4 @@
-Jan 7, 2025
+Jan 7, 2025 Lec 1
 
 Topics: Earth-sun relationship, Atmospheric circulation, weather, climates, soils, landscapes
 paleoclimate, climate change
@@ -8,7 +8,7 @@ Labs
     - Labs are due seven days after the lab session
     - Geometry kit
 
-Jan 9, 2025
+Jan 9, 2025 Lec 2
 
 Environmental Earth Science == the study of interconnected systems that make up the habitable portion of the Earth
 
@@ -53,4 +53,35 @@ System Equilibrium
 
 Earth as a Closed System: matter stays put, energy enters and leaves
 
-Jan 11, 2025
+Jan 11, 2025 Lec 3
+
+Cosmophere
+    Our solar system is located in the milky way galaxy
+    Galaxy: stars and steller remnants
+
+The Sun's Energy
+    Produces energy by fusion
+    Energy outputs:
+        Solar Wind: H+ and e-
+        Radiant energy: light
+
+Light as a Wave
+    Proposed by James Clerk Maxwell
+    EM radiation travels through space as a wave at the speed of light
+
+    EM wave
+    Electric and magnetic will always be perpendicular to each other in a wave
+
+Electromagnetic Spectrum
+    Radio, microwave, thermal infrared, middle infrared, shortwave infrared, near infrared, visible
+    ultra violet, xrays, gamma rays
+
+Solar Spectrum
+    Spectrum: measurement of the EM radiation radiating from or reflecting off an object at each wavelength
+
+Blackbody radiation
+    Blackbody: theoretical object that absorbs all incoming energy perfectly and re-radiates that energy perfectly
+
+    λ = k/T; k=2898µmK
+
+16:08 of lec 3
