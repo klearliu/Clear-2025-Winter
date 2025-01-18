@@ -84,4 +84,68 @@ Blackbody radiation
 
     λ = k/T; k=2898µmK
 
-16:08 of lec 3
+Earth abosrbs solar energy at high frequencies (visible) and radiates energy by emission at low frequencies infrared.
+
+    Solar Radiation:
+        UV (xrays, gamma rays)
+        Visible light
+        infrared
+    Wein's Laws
+        High energy == shortwave radiation == high temperature
+        Low energy == longwave radiation == low temperature
+
+Specturm = measurement of the EM radiation radiating from or reflecting off an object at each wavelength
+
+Longitude = angluar distance east or west of a point on Earth's surface
+    prime meridian designated as 0 degrees
+
+Latitude = angular distance north or south of the equator
+
+Insolation = incoming solar radiation
+    Intensity of sunlight that hits a point on Earth
+    Higher insolation during summer
+
+Distribution of Insolation
+    Thermopause is the outer boundary of Earth's energy system
+    Tropics receive more concentrated insolation
+    subsolar point is the location where insolation is perpendicular to the surface
+
+Higher latitudes have lower insolation:
+    incoming sunlight must pass through more Atmosphere
+    one unit of sunlight gets spread across more average
+
+Net Radiation = incoming shortwave radiation - outgoing longwave radiation
+
+Why we have Seasons
+    Geometry of Earth's orbit around the sun
+        - Eccentricity: Shape of Earth's orbit
+        - Obliquity: Tilt of Earth's rotational axis
+        - Precession: Orentation of Earth's rotational axis (the wobble of Earth's axis)
+    
+    North America is farthest away from the sun July 4 (aphelion) and closest January 3 (perihelion)
+
+Spring equinox (mar 21 or 22)
+    Overhead sun is at 90deg the equator
+Summer solstace (jun 21 or 22)
+    Overhead sun is at 90deg on the tropic of cancer
+    24hrs of daylight in the artic circle
+Autumn equinox (sep 22 or 23)
+    Overhead sun is at 90deg the equator
+    At all days they are all 12 hemispheres
+Winter solstace (dec 21 or 22)
+    Overhead sun is at 90deg on the tropic of capricorn
+    24 hrs of daylight in the antartic
+
+For northern hemispheres our winter solstace is dec 21 and summer is june 21
+
+Effects on insolation
+    Day Length
+        - Longer the day == the more daily insolation
+    Solar Altitude (noon sun angle)
+        Low angle
+            - Insolation is more diffuse
+            - must pass through more atmosphere; causes scattering and reflection
+        High angle
+            - Insolation more concentrated
+
+Jan 14, 2025 Lec 4
