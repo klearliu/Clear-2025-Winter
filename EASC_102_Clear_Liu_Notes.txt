@@ -149,3 +149,30 @@ Effects on insolation
             - Insolation more concentrated
 
 Jan 14, 2025 Lec 4
+
+Light as a shortwave:
+    - Transmitted
+    - Reflected: earth's surface, clouds, atmospheric gases and dust
+    - Refracted: atmosphere gases
+    - Scattered: atmosphere gases; caused by reflecting and refracting at the sametime
+        - rough surfaces (lambertian relectors)
+        - aerosols (gas molecules, dust, smoke, water molecules)
+    - Absorbed: earth's surface, atmospheric gases and dust, stratopheric ozone, clouds
+
+Atmospheric scattering
+    a) Rayleigh Scattering: Gas molecules; d < (1/10)λ
+    b) Mie Scattering: smoke, dust; λ >= d > (1/10)λ
+    c) Non-selective Scattering: Water vapour d > λ
+
+Temperature Vs Heat:
+    Temperature: measure of the average energy of molecular motion in a substance (a measurement)
+    Heat: kinetic energy transferred from one body to another (is energy)
+
+Heat Transmission
+    - Convection: transfers by circulation or mass movement; atoms free to move
+    - Conduction: transfers if in contact or collisions; heat flows from higher to lower temperature
+    - Radiation: transfers if not in contact;
+
+Albedo: Reflectivity of a surface, depends on brightness and texture
+    higher aerosols = higher albedo
+
