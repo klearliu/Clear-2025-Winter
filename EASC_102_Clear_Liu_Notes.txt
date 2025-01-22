@@ -176,3 +176,4 @@ Heat Transmission
 Albedo: Reflectivity of a surface, depends on brightness and texture
     higher aerosols = higher albedo
 
+Jan 17, 2025 Lec 5

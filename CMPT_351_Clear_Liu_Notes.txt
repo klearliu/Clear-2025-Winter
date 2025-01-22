@@ -107,8 +107,40 @@ In-Class exercise: How to use google trends.
 
 Assignment #1: Test out Google Trends
 
+Jan 14, 2025
+The overall class was a recap of the online lecture with explanations on
+pros/cons of table, bar chart, pie charts. Then the class went over the Google Trends assignment. Overall a recap class with an in-person excercise of pros
+and cons of DV on tables and charts.
 
+Jan 21, 2025
 
+Psychology Of Information Design
+	Colour Psychology: colours have a psychological impact
+	Typography: choosing correct fonts for genre or context
+	Visual Hierarachy: Guiding viewer's attention through fonts, size, colour
+						and placement
+
+Best practices in Information Design
+	Limit numbers
+	Consistent layouts
+	Show hierarchy; size and positioning
+	Clear labels for context; aid understanding
+
+Gestalt Theory
+	Brains are built to see structure and patterns to make sense of environment
+	Brains are good at detecting patterns and order
+	Brains are good at filling in the gaps in an image
+	Gestalts usind in DV to improve viewers understing of viz and how to use it
+
+	1) Proximity: elements close together implies they are related
+	2) Symmetry: organized and precieved to be calming
+	3) Common Region/Enclosure: Create groupings, borders background as a way to organize Consistent
+
+Bar Charts: considered as the "all rounder"
+	- Column Charts (good for grouping)
+	- Stacked Bar Chart (good for comparing)
+
+Assignment 2:
 
 
 
