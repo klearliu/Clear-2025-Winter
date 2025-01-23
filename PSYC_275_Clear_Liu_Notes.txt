@@ -1,1 +1,99 @@
+Exam #1 Study Sheet
 
+1) What are the differences between pure research, applied research and translational research?
+    Basic Research: motivated idea to acquire knowledge
+    Applied Research: takes idea to incorporate into clinical field
+    Translational Research: utilizes both basic and applied research
+
+2) What is the difference between a homozygous gene and a heterozygous gene?
+    homozygous: inherited two identical allels
+    heterozygous: inherited different allels
+
+3) What are the phenotypes observed in G1 and G2 after the first and second cross, respectively,
+in Mendel's genetic research?
+    G1: All dominant traits after first cross (started with true breeding)
+    G2: 3:1 ratio of dominant trait
+    The phenotype observed were colour and shape
+
+4) How is social dominance among male members of a species related to the evolution of that
+species?
+    Social structure, Mating Selection, Resource Allocation
+
+5) How did researchers study the evolution of the human brain?
+    1) Size of brain. 2) Size to body weight. 3) Cerebrum to size of brain stem
+    They also looked at some evolution studies from Darwin:
+        - fossils evolve from a common anncestor
+        - humans and other animals have replicating structures
+        - changes from selective breeding
+
+6) What is the difference between a genotype and a phenotype?
+    Genotype are their unique sequence of DNA
+    Phenotype are observable appearance
+
+7) How many monomers do DNA and protein have?
+    DNA: 4 monomers (A) goes with (T) and (C) goes with (G)
+    Protein: 20 monomers
+
+8) What happens during transcription and translation, and where do each of these processes take
+place inside the cell?
+    Transcription: inside nucleus, DNA to mRNA
+    Translation: inside cytoplasm mRNA to protein
+
+9) Explain the findings that were observed from research on the maze-dull and maze-bright rats,
+and how experience changed those findings.
+    Bright rats and Dull rats were separated testing the basic research of genetic differences
+    - They conclude that parental fostering does not impact learning and Genes influence development of behaviour
+    They proved that point by setting an enriched and standard environment. Both performed to no difference in 
+    an enriched environment while in standard bright rats were noticably more efficient.
+    - They also concluded that experience also matter not just genetics for learning.
+
+10) Describe the organizational breakdown of the nervous system.
+    Nervous system has two branches: CNS and PNS
+    CNS has two leaves: brain and spinal cord
+    PNS has two branches: ANS and SNS
+    ANS and SNS each have two leaves: afferent and efferent neurons
+
+11) What is the difference between afferent and efferent neurons?
+    Afferent: info sent to CNS while efferent is CNS info sent out
+
+12) What do you call a neuron with more than two extensions and none from its cell body?
+    multipolar with more than two extensions
+    multipolar interneron with no extensions
+
+13) What is the function of the parasympathetic and sympathetic nervous system?
+    Parasympathetic: relaxes your body after periods of stress/danger
+    Sympathetic: for decision making
+
+14) What is the role of microglia?
+    A type of glial cell that responds to injury
+
+15) Which glial cell provides myelination in the central nervous system?
+    Oligodendrocytes
+
+16) Which structure does not constitute as being part of the brainstem?
+    Cerebral hemisphere, Cerebellum, and diencephalon are not portions of the brainstem
+
+17) What are the functions of the three structures that make up the hindbrain?
+    medulla: autonomic functions
+    pons: connection to brain and body
+    cerebellum: voluntary actions
+
+18) What are the functions of the two structures of the tectum?
+    Superior: Visual
+    Inferiror: Audiovisual
+
+19) What is the thalamus made of?
+    Two connecting lobes and multiple nuclei
+
+20) Describe the structure of the neocortex.
+    Has 4 properties
+    1) cell type: pyramidal and stellate cells
+    2) different layers: size, density, proportions
+    3) columnar organization
+    4) thickness of layer
+
+21) What is the name of the fissure that separates the frontal lobe from the parietal lobe?
+    Central sulcus
+
+22) What are the three structures that make up the basal ganglia?
+    Caudate nucleus, globus pallidus, putamen
