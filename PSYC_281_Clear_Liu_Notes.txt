@@ -1,4 +1,4 @@
-Jan 10, 2025
+Jan 10, 2025 - Chapter 1
 
 Textbook: Introduction to Learning Behavior (6th Ed) Wadsworth Cengage Learning
 IBSN: 9780357658475
@@ -97,3 +97,39 @@ The Five Schools of Behaviourism
 
 Behaviour analysis is the basic science that is concerned with investigating principles of behaviour
 Applied behaviour analysis is the technology that applies these principles to the practical modification of behaviour in the real world.
+
+Jan 24, 2025 - Chapter 2
+
+Terms and Definitions Related to metheods
+
+Variable: a characteristic of a person, place, or thing, that can change
+    independant variable: manipulating
+    dependent variable: the measured of the independant
+
+Functional Relationship:
+    relationship between changes in an independent variable and dependent variable.
+    results in if there is IS or IS NOT
+
+Durand & Carr, 1992
+They did a research of study impact of teacher attention in grade school with behavioural issues.
+They tested to see if the teacher gives them more attention if it impacted or caused disruption.
+They concluded a func relationship that high teacher attention results to no disruptive behaviour
+
+Simulus: Any event that can potentially influence behaviour
+Response: A particular instance of behaviour
+
+A stimuli can either be appetitive or aversive
+    Appetitive Stimuli: event that an organism will seek out
+    Aversive Stimuli: event that an organism will avoid
+
+Motivating Operations: anything that affects the appetivieness or aversiveness of an event
+    Establishing Operations (EO): increase the appetivieness or aversiveness of an event
+        "makes good things better or bad things worse"
+    Abolishing Operations (AO): Decreases the appetitiveness or aversiveness of an event
+        "if you ate a bunch of sushi you're likely less want sushi"
+
+Contiguity: Means closeness or nearness
+    Temporal: close within time
+    Spaital: distance
+Contingency: predicitve functional relationship between two events. Probable occurence.
+

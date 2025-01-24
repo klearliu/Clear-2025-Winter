@@ -9,14 +9,12 @@ Exam #1 Study Sheet
     homozygous: inherited two identical allels
     heterozygous: inherited different allels
 
-3) What are the phenotypes observed in G1 and G2 after the first and second cross, respectively,
-in Mendel's genetic research?
+3) What are the phenotypes observed in G1 and G2 after the first and second cross, respectively, in Mendel's genetic research?
     G1: All dominant traits after first cross (started with true breeding)
     G2: 3:1 ratio of dominant trait
     The phenotype observed were colour and shape
 
-4) How is social dominance among male members of a species related to the evolution of that
-species?
+4) How is social dominance among male members of a species related to the evolution of that species?
     Social structure, Mating Selection, Resource Allocation
 
 5) How did researchers study the evolution of the human brain?
@@ -34,13 +32,11 @@ species?
     DNA: 4 monomers (A) goes with (T) and (C) goes with (G)
     Protein: 20 monomers
 
-8) What happens during transcription and translation, and where do each of these processes take
-place inside the cell?
+8) What happens during transcription and translation, and where do each of these processes take place inside the cell?
     Transcription: inside nucleus, DNA to mRNA
     Translation: inside cytoplasm mRNA to protein
 
-9) Explain the findings that were observed from research on the maze-dull and maze-bright rats,
-and how experience changed those findings.
+9) Explain the findings that were observed from research on the maze-dull and maze-bright rats, and how experience changed those findings.
     Bright rats and Dull rats were separated testing the basic research of genetic differences
     - They conclude that parental fostering does not impact learning and Genes influence development of behaviour
     They proved that point by setting an enriched and standard environment. Both performed to no difference in 
