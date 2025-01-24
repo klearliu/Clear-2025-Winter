@@ -145,4 +145,10 @@ Recording Methods:
     5) Latency: the length of time required for a behaviour to begin
     6) Interval recording: whether a behaviour occurs within a series of continuous invervals
     7) Time-sampling Recording: whether a vehaviour occurs within a series of discountinuous intervals
-    
+    8) Topography: physical form of the behaviour
+    9) Number of Errors: number of mistakes made vs correct responses; usually shown as percentage
+
+Interobserver Reliability/Agreement (IOA)
+    Two or more observers calculate the extent to which the ovservers agreement
+    A/(A+D), typically 80-90 % of agreement is required
+
