@@ -187,3 +187,11 @@ Single Subject Designs
         - Need more than 1 people, setting, behaviour
         - Treatment effect might generalize across settings or behaviour
     Changing-criterion design -> The effect of treatment is being systematically altered
+
+    Non-human Animal Research for Behaviour?
+        + can control the animal's genetic makeup
+        + can control the animal's learning history
+        + often able to strictly control the experimental environment for animals than for humans
+        + cannot ethically be conducted on humans
+        - Animals are not humans; may not apply to people
+        - Morally wrong to conduct research on animals who do not get to volunteer
