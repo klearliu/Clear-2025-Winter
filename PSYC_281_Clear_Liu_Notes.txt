@@ -133,3 +133,16 @@ Contiguity: Means closeness or nearness
     Spaital: distance
 Contingency: predicitve functional relationship between two events. Probable occurence.
 
+Behavioural (operational):
+    - A desctiopn of a property in concrete measurable terms
+    - Should be precise, allow quantification, and allow agreement between observers
+
+Recording Methods:
+    1) Rate of response: frequency over time
+    2) Intensity: force or magnitude of the behaviour
+    3) Duration: length of time that the individual repeatedly performs a behaviour
+    4) Speed: length in time i takes for an episode of behaviour to occur from start to finish
+    5) Latency: the length of time required for a behaviour to begin
+    6) Interval recording: whether a behaviour occurs within a series of continuous invervals
+    7) Time-sampling Recording: whether a vehaviour occurs within a series of discountinuous intervals
+    
