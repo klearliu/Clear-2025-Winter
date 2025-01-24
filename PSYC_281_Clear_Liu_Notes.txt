@@ -152,3 +152,38 @@ Interobserver Reliability/Agreement (IOA)
     Two or more observers calculate the extent to which the ovservers agreement
     A/(A+D), typically 80-90 % of agreement is required
 
+Descriptive Research
+    - Gathering information in a situation where it naturally occurs
+    - no manipulation of variable or context
+    + great for gaining a rich, detatiled understanding of behaviour
+    - does not allow a researcher to draw cause and effect conclusions (no control)
+
+Experimental Research:
+    Group Designs: In each, one or more independent variables are manipulated
+        Control Group Design -> individuals are assigned to a treatment while the other doesn't receive the actual treatment (controlled group)
+        Factorial Design -> examines the effects of two or more indpendent variables across groups of subjects
+        Comparative Design -> where different species make up one of the independent variables
+
+Group Designs
+    + Data is applicable to a large population
+    + Cause-effect conclusions possible
+    - requires a large number of subjects
+    - Often impractical for indidual or treatment based
+    - Little attention paid to individual performance
+    - Data analyzed only at the end of the experiment
+
+Single Subject Designs
+    Simple-comparison (AB) design -> measure currently and compare to after
+    Reversal design (ABA or ABAB) -> involves the repeated alternations between a baseline period and a treatment period
+    Two-treatment Reversal Design (ABCAC) -> application of the reversal design to test the effectiveness of more than one treatment
+        + allows entire experiment ot be conducted on a single subjects
+        + may not need statistical tests to tell that the treatment is effective in changing behaviour
+        - behaviour may not revert back to baseline
+        - inappropiate for long-lasting effects to "unteach a skill"
+        - may be ethically inappropriate
+    Multiple-baseline designs -> Treatment is instituted at successive points for two or more:
+        1) persons  2) settings or 3) behaviours
+        + appropriate for treatments producing permanent change or unethical to withdraw once improvement is seen
+        - Need more than 1 people, setting, behaviour
+        - Treatment effect might generalize across settings or behaviour
+    Changing-criterion design -> The effect of treatment is being systematically altered
