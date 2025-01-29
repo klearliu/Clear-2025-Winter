@@ -195,3 +195,110 @@ Single Subject Designs
         + cannot ethically be conducted on humans
         - Animals are not humans; may not apply to people
         - Morally wrong to conduct research on animals who do not get to volunteer
+    
+Jan 28, 2025 - Chapter 3
+    
+Elicited Behaviour
+    - Automatic reaction, involuntary, occurs in response to stimuli
+
+    Reflexes
+        - simple, automatic response to a stimulus
+        - startle, orienting, flexion
+
+    Reflex Arcs: the neural structure containing sensory neurons, interneuorons and motor neuorons
+    Fixed Action Patterns: a fixed sequence of responses slicited by a specific stimulus. Genetically programmed.
+    Sign Stimulus: the specific stimulus that elicits a fixed action pattern
+
+Simple Mechanisms of Learning
+
+    Habituation: Decrease in the strength of an elicited response following repeated
+    presentations of the stimulus that natuarlly elicits that response.
+
+    Long-term Habituation
+    Stimuli are presented spaced overtime, slow to occur, slow to recover
+
+    Short-term Habituation
+    Stimuli are presented close together over time, quick to occur and recover.
+
+    Sensitization
+    Increase in the strength of an elicted response following repeated presentations
+    of the stimulus that naturally elicits that reponse
+
+    Dishabituation
+    When habituated responses to a stimulus reappear following the presnetation of another,
+    seemingly unrelated, novel stimulus.
+
+    Factors that influence habituation and sensitization
+        Stimulus Intensity
+        - Low intensity typically leads to Habituation
+        - Moderate intensity leads to a initial period of sensitization, followed by Habituation
+        - High intensity leads to sensitization
+
+        Adatative Significance, unexpected sounds from stimuli
+        Priror Learning, expected to have the stimuli
+        Individual factors like temperament and personality
+    
+    Opponent-Process Theory of Emotion
+        A-Process/primary process elicited directly by an event
+        B-Process/opponent process elicited by the a process; designed to counteract
+
+        Four Important Characteristics of a and b processes
+        1) A-process correlates closely with the presence of the emotional event
+        2) B-process is slow to increase and slow to Decrease
+        3) Repeated presentations of the emotional event, the b-process increases in both strength and Duration
+        4) A-process and b-process tend to be hedonically opposite of each other (emotionally opposite)
+
+Classical Conditioning: A form of learning where a stimulus comes to elicit a repsonse because it has been
+paired with another simulus.
+
+Ivan Pavlov Discovery of Classical Conditioning
+- Digestive research
+    - Found anticipatroy secretions to environmental events accidentally
+    - How siliva production influences digestion
+    - A cannula was attached to dogs to measure how much saliva they produced
+    - They would prepare food from a seperate room.
+    - When they walk into to the room with food the bell would ring from the door
+    and dogs would produce most salivas when food were placed in their mouth.
+    - Eventaully the sound of the bell was paired with the taste of food
+    - Therefore dogs would produce most saliva while the bell rings and when eating food
+
+Types of Classical Conditioning Stimulus
+- Neutral Stimulus (NS) - no natural or learned associations
+- Unconditioned Stimulus (US) - biologically significant stimulus that already has a response associated with it
+- Unconitioned Response (UR) - natural response to US
+- Conditioned Stimulus (CS) - a previously neutral stimulus that comes to elicit a conditioned response
+- Conditioned Reponse (CR) - elicited by a CS. Develops with many pairings of the CS with the US
+
+Conditioning Diagrams
+-> means elicits
+: means followed by
+-- means n/a
+
+Example 1:
+-before conditioning
+    Food (US) -> Salivation (UR)
+    Bell (NS) -> No salivation (--)
+-during conditioning
+    bell (NS) -> Salivation (UR)
+-after conditioning
+    bell (CS) -> Salivation (CR)
+
+Example 2:
+Bee Buzz (NS): Sting (US) -> Fear (UR)
+Bee Buzz (CS) -> Fear (CR)
+
+Two Unconditioned Stimulus:
+1) Appetive conditioning: US is an event the animal will approach or seek
+2) Aversive conditioning: US something the animal will try to avoid
+
+Conditioned Suppression
+    Measuring the level of fear an animal feels
+    Suppression Ratio = (# of CS Responses)/(# of CS Responses + # of pre CS Responses)
+    Lower Suppression Ratio means greater the Suppression
+    0.5 no suppresion
+    0 total suppression
+
+Excitatory and Inhibitory Conditioning
+    Excitatory conditioning: CS signals the presentation of a US, leads to a response
+    Inhibitory conditioning: CS signals the absense/removal of a US therefore inhibits a repsonse
+
