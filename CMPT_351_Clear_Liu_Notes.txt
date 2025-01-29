@@ -140,7 +140,52 @@ Bar Charts: considered as the "all rounder"
 	- Column Charts (good for grouping)
 	- Stacked Bar Chart (good for comparing)
 
-Assignment 2:
+Jan 28, 2025
+
+Team Project:
+- A team of 3
+- Presentation due on March 31
+- Choose one option:
+	Tell a story using DV. Explain significance of the topic, data reputability, data preprocessing and
+	analysis steps, the rationale behind visual choices, and discuss the findings and patterns identified.
+	-> OR
+	DV platform comparative analysis: Select 2 or more platforms/software products. Consider factors such as data input
+	options, available chart types, interactivity/features, collaboration capabilities, cost and tiime
+	-> OR
+	DV Project or Organization discuss a project or organization that significantly uses DV to inform the world.
+	Describe goals of the project/organziation. What visualizers fit. etc
+	-> OR
+	Data Visualization Applicances
+	Create an app of some sort that utilizes DV.
+See Additional Guidelines in Team Project Specs
+
+Principles of Effective DV
+- Simplicity
+- Relevance
+- Consistency
+- Interactivity
+- Storytelling
+- Accessibility
+
+6 Steps to DV
+1) Start with a question
+2) Get your data
+3) Pre-process data
+4) Analysis
+5) Vizualize data
+6) Communicate results
+
+7 Qualities of Good Data
+1) Completeness
+2) Comprehensive
+3) Accuracy
+4) Precision
+5) Legitament & Valid
+6) Reliable
+7) Consistent
+
+
+
 
 
 
