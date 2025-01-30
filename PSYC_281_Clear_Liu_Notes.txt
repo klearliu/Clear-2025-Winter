@@ -302,3 +302,14 @@ Excitatory and Inhibitory Conditioning
     Excitatory conditioning: CS signals the presentation of a US, leads to a response
     Inhibitory conditioning: CS signals the absense/removal of a US therefore inhibits a repsonse
 
+Temporal Factors in Conditioning
+1) Short Delayed while cs is still being played, a response (US) is made
+2) Trace after cs is done a response is then made
+3) Long Delayed while cs is still being played, but longer, a response is made
+4) Simultaneous CS and US happens at the sametime
+5) Backward US happens before CS
+For learning Delay would be best
+
+Pseudoconditioning
+An elicited response that appears to be a CR, but actually is the result of
+sensitization rather than conditioning.
