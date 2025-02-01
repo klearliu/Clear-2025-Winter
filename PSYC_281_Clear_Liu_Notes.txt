@@ -207,7 +207,7 @@ Elicited Behaviour
 
     Reflex Arcs: the neural structure containing sensory neurons, interneuorons and motor neuorons
     Fixed Action Patterns: a fixed sequence of responses slicited by a specific stimulus. Genetically programmed.
-    Sign Stimulus: the specific stimulus that elicits a fixed action pattern
+    Sign Stimulus (or releaser): the specific stimulus that elicits a fixed action pattern
 
 Simple Mechanisms of Learning
 
@@ -225,7 +225,7 @@ Simple Mechanisms of Learning
     of the stimulus that naturally elicits that reponse
 
     Dishabituation
-    When habituated responses to a stimulus reappear following the presnetation of another,
+    When habituated responses to a stimulus reappear following the presentation of another,
     seemingly unrelated, novel stimulus.
 
     Factors that influence habituation and sensitization
@@ -313,3 +313,58 @@ For learning Delay would be best
 Pseudoconditioning
 An elicited response that appears to be a CR, but actually is the result of
 sensitization rather than conditioning.
+
+Jan 29, 2025 - Chapter 4
+Acquisition
+The process of developing and strengthening a conditioned response
+
+Asymptote: Maximum amount of conditioning that can take place
+
+Extinction is both a process and a procedure:
+    Process: loss of ability for CS to elicit a CR; CS w/o US
+    Procedure: repeated presentation of CS in the absence of the US
+
+Spontaneous Recovery
+    The reappearance of a conditioned response to a CS following a rest period after Extinction
+
+Stimulus Generalization: Tendency for a CS to occur in the presence of a stimulus that is similar to the CS
+Stimulus Discrimination: Occurs when we exhibit less pronounced CR to stimuli that differ from the orignal CS
+
+Experimental Neurosis
+An experimentally produced disorder in which animals exposed to unpredictable events devlop neurotic-like symptoms.
+Similar to PTSD symptoms in humans
+
+Extensions to Classical Conditioning
+1) High-Order Conditioning
+    A procedure in which a stimulus that is associated witha CS can also become a CS w/o being paird with a US.
+    CR will always be bigger than UR
+    EX:
+    Metronome (NS1): Food (US) -> Salivation (UR)
+    Metronome (CS1) -> Salivation (UR)
+
+    Black square (NS2): Metronome (CS1) -> Salivation (CR)
+    Black square (CS2) -> Salivation (CR)
+
+2) Sensory Preconditioning
+    When one stimulus is conditioned as a CS, another stimulus, with which it was previously associated
+    becomes a CS w/o being paired with a US
+    EX:
+    Light (NS1): Tone (NS2) -> -- (100 times)
+
+    Light (NS1): Shock (US) -> Flinch (UR)
+    Light (CS1) -> Flinch (CR)
+
+    Tone (CS2) -> Flinch
+
+3) US Revaluation
+    Post-conditioning presentation of a US at a different level of intensity can subsequently altered
+    the strength of the response of a previously conditioned CS.
+    US inflation: CR produced by the CS gets stronger because a stronger US was presented
+    US deflation: CR produced by the CS gets weaker because a weaker US was presented
+    EX:
+    Buzzer (NS): 50mV Shock (US) -> Weak Flinch (UR)
+    Buzzer (CS): Weak Flinkch (CR)
+
+    200 mV Shock (US) -> Very Strong Flinch (UR)
+
+    Buzzer (CS) -> Very Strong Flinch (CR)
