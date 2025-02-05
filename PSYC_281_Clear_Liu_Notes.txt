@@ -368,3 +368,60 @@ Extensions to Classical Conditioning
     200 mV Shock (US) -> Very Strong Flinch (UR)
 
     Buzzer (CS) -> Very Strong Flinch (CR)
+
+Four Examples of Specificity in Classical Conditioning
+
+    Compound Stimulus
+    Consists of the simultaneous presentation of two or more individual stimuli
+
+    Stimulus Saliency
+    Perceived intensity of a stimulus
+
+    [] in diagrams mean compound
+
+    1) Overshadowing | shows that classical conditioning relies more than just temporal contiguity
+    When the more salient member of a compound stimulus is more radily conditioned as a CS and thereby interferes
+    with conditionoing of the less salient member.
+
+    [Bright Light + Weak Tone] (NS): Shock (US) -> Fear (UR)
+
+    [Bright Light (CS)] -> Fear (CR)
+    Weak Tone (NS) -> -- (no reaction)
+
+    2) Blocking | temporal contiguity is not the only important factor to determine if conditioning will take place
+    When the presence of an establishd CS interferes with the conditioning of a new CS
+    [Light (CS) + Tone (NS)]: Shock (US) -> Fear (UR)
+
+    Light (CS) -> Fear (CR)
+    Tone (NS) -> -- (no reaction)
+
+    3) Occasion setting | classically conditioned associations can be situation specific
+    A procedure in which a stimulus signals whether a CS is likely to be followed by a US and thereby controls whether
+    the CS will elicit a CR
+
+    Light On
+        Tone (NS): Shock (US) -> Fear (UR)
+    
+    Light Off
+        Tone (NS): nothing (--) -> no fear (--)
+    
+    Ligh On (OS or occasion setter)
+        Tone (CS) -> Fear (CR)
+    
+    Light Off
+        Tone (NS) -> no reaction (--)
+    
+    4) Latent Inhibition | ensures we do not develop conditioned responses to stimuli, we're paried with a US
+    A familiar stimulus is more difficult to condition as a CS than is an unfamiliar (novel) stimulus
+
+    Tone (NS): nothing (--) -> no reaction (--) {do this 1000x}
+
+    Tone (NS): shock (US) -> Fear (UR) {do this 10x}
+    Tone (NS) -> -- (no reaction)
+
+    ---
+
+    Tone (NS): nothing (--) -> no reaction (--) {do this 2x}
+
+    Tone (NS): Shock (US) -> Fear (UR) {do this 10x}
+    Tone (CS) -> Fear (CR)
