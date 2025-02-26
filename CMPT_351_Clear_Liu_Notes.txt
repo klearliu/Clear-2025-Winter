@@ -187,7 +187,32 @@ Principles of Effective DV
 Feb 11, 2025
 Today's lecture was just a recap of what the async material was and future team projects
 
+Feb 25, 2025
+Mean: avg
+Median: middle score for a set of data sorted in order of magnitude
+Mode: score that appears the most
 
+Right Skewed: right tail longer, few extreme high values pulls mean to the right
+Left Skewed: opposite of right
+
+Box and Whisker Plot: Chart invented by john tukey in 1970, shows median, quartiles, max and making
+
+Elements of storytelling
+1) Clear Narrative
+2) Focus on one idea
+3) Relevance
+4) Completeness
+
+We often tell stories through data visualization
+- Inspiration
+- Context
+- Memorability
+
+Process for storytelling with data
+- Define audience
+- key messege
+- story structure
+	begninning, middle, end
 
 
 
