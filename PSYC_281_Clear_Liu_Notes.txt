@@ -425,3 +425,28 @@ Four Examples of Specificity in Classical Conditioning
 
     Tone (NS): Shock (US) -> Fear (UR) {do this 10x}
     Tone (CS) -> Fear (CR)
+
+Chapter 7 Feb 28, 2025
+
+Schedule of reinforcement
+the response requirement thtat must be met to obtain reinforcement
+
+    1) Continuous Reinforcement Schedule (CRF)
+        Reinforce a behaviour every time it occurs
+        Fast learning, labour intensive, extinction can occur quickly
+    2) Partial reinforcement schedules (PRF)
+        Only some responses are reinforced
+        slower learning, less labour, more resistant to extinction
+
+        Ratio Schedules: require a certain number of responses to be performed before a reinforcer is delivered
+            I) Fixed ration (FR): number of responses is known to the orgainism, some pauses
+            II) Variable Ratio (VR): number of responses is not predictable but averagely similar, no pauses here, high steady
+
+            Ratio Strain: disruption in responding due to an overly demanding response requirement
+            Post reinforcement pauses: breaks after a reinforcer
+
+        Interval Schedules: reinforce first behaviour after period of time has elapsed
+            III) Fixed Interval (FI): first reponse after a specific period of time leads to the delivery of reinforcer,
+                scalloped shaped graph
+            IV) Variable Interval (VI): first response after a varying, unpredictable period of time, steady Rate,
+                nearly no pausing, moderate rate
