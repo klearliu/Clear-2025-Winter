@@ -464,4 +464,10 @@ the response requirement thtat must be met to obtain reinforcement
         
         - Noncontingent Schedules: reinforcer is delivered independently of any response. Response is not required for the reinforcer to be obtained
             Fixed Time (FT) schedule: fixed, predictable period of time, regardless of the organism's behaviour
-            Variable Time (VT) schedule: varying, unpredictable period of time, regardless of 
+            Variable Time (VT) schedule: varying, unpredictable period of time, regardless of organism's behaviour
+    
+    Complex Schedules of Reinforcement: a combination of two or more simple schedules
+        - Conjuctive schedules: two or more simple schedules must be met before a reinforcer is delivered
+        - Adjusting schedules: response requirement changes as a function of the organism's performance while responding for the previous reinforcer
+        - Chained schedules: consits fo a sequence of two or more simple schedules followed in a terminal reinforcer.
+            - weaker in earlier links aka the goal gradient effect (GGE)
