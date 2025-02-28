@@ -450,3 +450,18 @@ the response requirement thtat must be met to obtain reinforcement
                 scalloped shaped graph
             IV) Variable Interval (VI): first response after a varying, unpredictable period of time, steady Rate,
                 nearly no pausing, moderate rate
+        
+    Simple schedule: to describe schedules of reinforcemnt that only have one requirement to be satisfied
+    for reinforcement to be delivered
+        - Duration schedules: reinforcement is contingent on performing a behaviour continuously throughout a period of time
+            Fixed duration schedule (FD): behaviour must be performed continuously for a fixed, predicatbale period of time
+            Variable duration schedule (VD): behaviour must be performed continuously for a varying, unpredictable period of time
+
+        - Response rate schedules: directly contingent upon the organism's rate of response
+            Differential Reinforcements of High Rates (DRH): "at lease" or minimum specified
+            ... of Low Rates (DRL): "no more than" or maximum specified
+            ... of paced responding (DRP): creates lower and upper bounds of an action 
+        
+        - Noncontingent Schedules: reinforcer is delivered independently of any response. Response is not required for the reinforcer to be obtained
+            Fixed Time (FT) schedule: fixed, predictable period of time, regardless of the organism's behaviour
+            Variable Time (VT) schedule: varying, unpredictable period of time, regardless of 
