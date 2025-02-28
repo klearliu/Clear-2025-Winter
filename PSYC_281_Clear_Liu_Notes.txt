@@ -471,3 +471,26 @@ the response requirement thtat must be met to obtain reinforcement
         - Adjusting schedules: response requirement changes as a function of the organism's performance while responding for the previous reinforcer
         - Chained schedules: consits fo a sequence of two or more simple schedules followed in a terminal reinforcer.
             - weaker in earlier links aka the goal gradient effect (GGE)
+
+    Theories of Reinforcement
+    1) Drive Reduction Theory
+        An event is reinforcing to the extent that it is associated with a reduction of some physiological drive.
+        Similar to Hell (or Neobehaviourism)
+
+    2) The Premack Principles
+        Based on the notion that reinforcers can often be viewed as behaviours rather than observable stimuli
+        High-probability behaviour (HPB): likely to do
+        Low-probability behaviour (LPB): less likely to do
+        "the high probability" becomes the reinforcer of the "low probability behaviour"
+
+    3) Response Deprivation Hypothesis
+        behaviour can serve as a reinforcer when:
+            1. access to the behaviour is restricted
+            2. its frequency thereby falls below its preferred level of occurrence
+        this makes the action of wanted the remaining access to behaviour as a reinforce.
+
+    4) Behavioural Bliss Point Approach
+        an organism with free access to alternative activities will distribute its behaviour in such a way
+        as maximize overall reinforcement. They will distribute its activities in such ways to draw as near
+        to the bliss point as possible.
+
