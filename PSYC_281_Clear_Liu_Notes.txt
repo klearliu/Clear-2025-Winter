@@ -426,6 +426,8 @@ Four Examples of Specificity in Classical Conditioning
     Tone (NS): Shock (US) -> Fear (UR) {do this 10x}
     Tone (CS) -> Fear (CR)
 
+-------------------------------------------------------------------------------
+
 Chapter 7 Feb 28, 2025
 
 Schedule of reinforcement
@@ -494,3 +496,48 @@ the response requirement thtat must be met to obtain reinforcement
         as maximize overall reinforcement. They will distribute its activities in such ways to draw as near
         to the bliss point as possible.
 
+Chapter 5
+Stimulus Substitution Theory
+    CS acts as a substitution for US
+    if true, CR should always be same as UR
+
+Preparatory Response Theory
+    Purpose of conditioning is to prepare the organism for the presentation of the US
+    Allows for cases where CR and UR are different
+
+Compensatory Response Theory
+    CR produces opposite raction of UR (to compensate)
+    Connected to opponent process theory (A/B processes)
+    Used to explain drug tolerance, cravings, and overdoses
+
+    In summary:
+    B process with no A process
+    B process weakens the effect of the A process
+    So user does something to increase A process
+    Very strong A process with no B process
+
+Rescorla Wagner Model
+    Mathematical model of conditioning
+    US can only support so much conditioning and must be distibuted among the various CS that are presentation
+    Stronger stimuli (CS and US) support more contioning
+    Allows prediction of how quickly learning should occur based on knowledge of certain factors
+    It can explain overshadowing and blocking very well
+    Associative Value: amount of conditioning
+    CS will acquire the associative value and then CS will have as much and as strong as UR
+
+    Overshadowing:
+    [bright light (v=0) + quiet tone (v=0)]: Food (Max v = 10) -> Salivation
+    Bright light (v=8) -> lots of salivation
+    Quiet tone (v=2) -> almost no salivation
+
+    Blocking:
+    [bright light (v=0) + quiet tone (v=0)]: Food (Max v = 10) -> Salivation
+    Bright light (v=10) -> lots of salivation
+    Quiet tone (v=0) -> no salivation
+
+
+
+
+
+
+Chapter 6
