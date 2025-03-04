@@ -581,7 +581,13 @@ the response requirement thtat must be met to obtain reinforcement
         as maximize overall reinforcement. They will distribute its activities in such ways to draw as near
         to the bliss point as possible.
 
-
-
-
 Chapter 6
+
+Operant Conditioning: is learning where the future frequency or probability of behaviour is controlled by its consequences.
+
+Law of Effect (Edwin Thorndike)
+Behaviours leading to a satisfying state of affairs are strengthend/stamped in, while unsatisfying ones are weakened/stamped out
+    - discovered by puzzel box experiments with cats
+
+Skinner Box (Operant conditioning chamber)
+Automotaed box to measure animal behaviour and provide outcomes based on that behaviour
