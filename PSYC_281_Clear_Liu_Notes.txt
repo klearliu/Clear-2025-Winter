@@ -535,6 +535,28 @@ Rescorla Wagner Model
     Bright light (v=10) -> lots of salivation
     Quiet tone (v=0) -> no salivation
 
+    Rescorla Wagner model does not explain all conditioning phenomena.
+
+Phobias: An excessive or extreme fear response to a stimulus that are not at all dangerous or
+minimally dangerous, mostly.
+
+ex: developing a Phobias
+Back seat of car (NS): Pain from Accident (US) -> Fear (UR)
+Back seat of car (CS) -> Fear (CR)
+
+Factors that Impact Phobia Development
+    - Observational learning: w/o direct confrontations just by watching others
+    Snake on TV (NS): Look of fear from Mom's face (US) -> Fear (UR)
+    Snake on TV (CS) -> Fear (CR)
+    - temperament: INDIVIDUAL's level of emotional reactivity, genetically determined
+    - preparedness: learn certain types of behaviours/associations more easily than others, easier to develop fear of spiders than flowers
+    - incubation: strengthening of a conditioned fear response
+    - US re-evaluation: exposure to a US of a different intensity
+    - selective sensitization: exposure to an unrelated stressful event, external factors added on.
+
+
+
+
 
 
 
