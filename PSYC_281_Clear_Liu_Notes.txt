@@ -630,7 +630,21 @@ Four Types of Outcome Contingencies
         Time-out: loss of access to most/all positive reinforcers for a brief period of time
         Reponse cost: removal of a specific reinforcer
 
+    Immediate Vs Delayed Reinforcement
+        - The more dealyed a reinforcer after behaviour, the weaker the effect. Immediate is better for learning
+    
+    Primary and Secondary Reinforcers
+        Primary (unconditioned): Biologically determined or survival value for the individual
+        Secondary (conditioned): Previously neutral stimulus that has been repeatedly paired with an established reinforcer
+            Generalized secondary reinforcers: reinforcer that are paired with a wide variety of other primay reinforcers. Ex. money
 
+    Intrinsic Reinforcement: the mere act of performing the behaviour
+    Extrinsic Reinforcement: some consequence that is external to the behaviour
+
+    Natural Reinforcers: provided for certain behaviours | ex. putting something up for sale and getting money for it
+    Contrived Reinforcers: arranged to modify a behabiour; not a typical consequence | ex. studying for 1hr leads to 12hrs of whatever you want
+
+    Shaping: gradual creation of a new behaviour through reinforcement of successively closer approximations.
 
 
 
