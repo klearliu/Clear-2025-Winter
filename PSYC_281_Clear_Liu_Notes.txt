@@ -428,6 +428,91 @@ Four Examples of Specificity in Classical Conditioning
 
 -------------------------------------------------------------------------------
 
+Chapter 5
+Stimulus Substitution Theory
+    CS acts as a substitution for US
+    if true, CR should always be same as UR
+
+Preparatory Response Theory
+    Purpose of conditioning is to prepare the organism for the presentation of the US
+    Allows for cases where CR and UR are different
+
+Compensatory Response Theory
+    CR produces opposite raction of UR (to compensate)
+    Connected to opponent process theory (A/B processes)
+    Used to explain drug tolerance, cravings, and overdoses
+
+    In summary:
+    B process with no A process
+    B process weakens the effect of the A process
+    So user does something to increase A process
+    Very strong A process with no B process
+
+Rescorla Wagner Model
+    Mathematical model of conditioning
+    US can only support so much conditioning and must be distibuted among the various CS that are presentation
+    Stronger stimuli (CS and US) support more contioning
+    Allows prediction of how quickly learning should occur based on knowledge of certain factors
+    It can explain overshadowing and blocking very well
+    Associative Value: amount of conditioning
+    CS will acquire the associative value and then CS will have as much and as strong as UR
+
+    Overshadowing:
+    [bright light (v=0) + quiet tone (v=0)]: Food (Max v = 10) -> Salivation
+    Bright light (v=8) -> lots of salivation
+    Quiet tone (v=2) -> almost no salivation
+
+    Blocking:
+    [bright light (v=0) + quiet tone (v=0)]: Food (Max v = 10) -> Salivation
+    Bright light (v=10) -> lots of salivation
+    Quiet tone (v=0) -> no salivation
+
+    Rescorla Wagner model does not explain all conditioning phenomena.
+
+Phobias: An excessive or extreme fear response to a stimulus that are not at all dangerous or
+minimally dangerous, mostly.
+
+ex: developing a Phobias
+Back seat of car (NS): Pain from Accident (US) -> Fear (UR)
+Back seat of car (CS) -> Fear (CR)
+
+Factors that Impact Phobia Development
+    - Observational learning: w/o direct confrontations just by watching others
+    Snake on TV (NS): Look of fear from Mom's face (US) -> Fear (UR)
+    Snake on TV (CS) -> Fear (CR)
+    - temperament: INDIVIDUAL's level of emotional reactivity, genetically determined
+    - preparedness: learn certain types of behaviours/associations more easily than others, easier to develop fear of spiders than flowers
+    - incubation: strengthening of a conditioned fear response
+    - US re-evaluation: exposure to a US of a different intensity
+    - selective sensitization: exposure to an unrelated stressful event, external factors added on.
+
+Treating Phobias
+- Systematic Desensitization: pairing relaxation with succession of feared stimulus
+    -Imaginal Desensitization: imagining the phobic stimulus
+    -In Vivo Desensitization: clincian presents the phobic stimulus
+
+    1) Create a hierarchy of fear producing situations
+    2) Teach relaxation skills
+    - muscle tension reduction
+    - relaxed breathing
+    - attention focusing
+    3) Progress through the hierarchy
+
+    - Counterconditioning
+    A CS that elicits one type of response is associated with an event that elicits an incompatible response.
+    "they can only feel one not both"
+
+- Flooding
+    Behavioural treatment that involves prolonged exposure to a feared stimulus. Downside is that there are lots of stress and
+    medical complications. "bruteforce"
+
+- Hybrid Approaches
+    Combination of more than one basic approach
+
+- Aversion Therapy
+    Using an unpleasant US/UR to condition a previously-pleasant (but unwanted) CS/CR.
+    ex a pill that makes consequences for people who drinks
+
 Chapter 7 Feb 28, 2025
 
 Schedule of reinforcement
@@ -495,69 +580,6 @@ the response requirement thtat must be met to obtain reinforcement
         an organism with free access to alternative activities will distribute its behaviour in such a way
         as maximize overall reinforcement. They will distribute its activities in such ways to draw as near
         to the bliss point as possible.
-
-Chapter 5
-Stimulus Substitution Theory
-    CS acts as a substitution for US
-    if true, CR should always be same as UR
-
-Preparatory Response Theory
-    Purpose of conditioning is to prepare the organism for the presentation of the US
-    Allows for cases where CR and UR are different
-
-Compensatory Response Theory
-    CR produces opposite raction of UR (to compensate)
-    Connected to opponent process theory (A/B processes)
-    Used to explain drug tolerance, cravings, and overdoses
-
-    In summary:
-    B process with no A process
-    B process weakens the effect of the A process
-    So user does something to increase A process
-    Very strong A process with no B process
-
-Rescorla Wagner Model
-    Mathematical model of conditioning
-    US can only support so much conditioning and must be distibuted among the various CS that are presentation
-    Stronger stimuli (CS and US) support more contioning
-    Allows prediction of how quickly learning should occur based on knowledge of certain factors
-    It can explain overshadowing and blocking very well
-    Associative Value: amount of conditioning
-    CS will acquire the associative value and then CS will have as much and as strong as UR
-
-    Overshadowing:
-    [bright light (v=0) + quiet tone (v=0)]: Food (Max v = 10) -> Salivation
-    Bright light (v=8) -> lots of salivation
-    Quiet tone (v=2) -> almost no salivation
-
-    Blocking:
-    [bright light (v=0) + quiet tone (v=0)]: Food (Max v = 10) -> Salivation
-    Bright light (v=10) -> lots of salivation
-    Quiet tone (v=0) -> no salivation
-
-    Rescorla Wagner model does not explain all conditioning phenomena.
-
-Phobias: An excessive or extreme fear response to a stimulus that are not at all dangerous or
-minimally dangerous, mostly.
-
-ex: developing a Phobias
-Back seat of car (NS): Pain from Accident (US) -> Fear (UR)
-Back seat of car (CS) -> Fear (CR)
-
-Factors that Impact Phobia Development
-    - Observational learning: w/o direct confrontations just by watching others
-    Snake on TV (NS): Look of fear from Mom's face (US) -> Fear (UR)
-    Snake on TV (CS) -> Fear (CR)
-    - temperament: INDIVIDUAL's level of emotional reactivity, genetically determined
-    - preparedness: learn certain types of behaviours/associations more easily than others, easier to develop fear of spiders than flowers
-    - incubation: strengthening of a conditioned fear response
-    - US re-evaluation: exposure to a US of a different intensity
-    - selective sensitization: exposure to an unrelated stressful event, external factors added on.
-
-
-
-
-
 
 
 
