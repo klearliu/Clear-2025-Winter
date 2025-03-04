@@ -513,6 +513,71 @@ Treating Phobias
     Using an unpleasant US/UR to condition a previously-pleasant (but unwanted) CS/CR.
     ex a pill that makes consequences for people who drinks
 
+Chapter 6
+
+Operant Conditioning: is learning where the future frequency or probability of behaviour is controlled by its consequences.
+
+Law of Effect (Edwin Thorndike)
+Behaviours leading to a satisfying state of affairs are strengthend/stamped in, while unsatisfying ones are weakened/stamped out
+    - discovered by puzzel box experiments with cats
+
+Skinner Box (Operant conditioning chamber)
+Automotaed box to measure animal behaviour and provide outcomes based on that behaviour. Animal "free to respond" at any rate and time
+
+Operant Behaviour (R): a class of emitted responses that result in certain consequences which affects
+the future frequency of these responses. -> means emitted or voluntarly
+    EX:
+    Curse at parents (R) -> Grounded -- results in less likely to curse at parents in the future
+    Child yells for candy (R) -> Parents give child candy -- results in child for yelling
+
+Operant Consequences
+    I) Reinforcers (SR): increases the frequency of behaviour
+    II) Punishers (SP): decreases
+
+Discriminative stimulus (SD): the presence of which responses are reinforced and in the absence of which they are not reinforced.
+    EX
+    Parents Home (SD): Make a mess (R) -> Grounded (SP)
+
+    Descriminative stimulus for extinction: signals absence of reinforcement or punishment (S-delta)
+    EX
+    Parents home (SD): Throw party (R) -> Grounded (SP)
+    Parents away (S-Delta) -> --
+
+Four Types of Outcome Contingencies
+    Reinforcement: encourage the response
+        - Positive (SR+) presentation of stimulus after response, behaviour is strengthened
+            Child yells in store (R) -> Give them what they want (SR+) | result: child more likely to yell in store
+        - Negative (SR-) presentation of aversive or unwanted stimulus is removed, beavhiour is strengthened
+            Take medication for headache (R) -> Headache goes away (SR-) | result: take medication when headache occurs
+        
+        Escape behaviour: results in termination, behaviour strengthen
+        Avoidance behaviour results in prevention, behaviour strengthen
+
+    Punishment: decrease the likelyhood of response
+        - Positive (SP+) presentation of stimulus after response, behaviour is weakened
+            Speeding (R) -> Cop gives ticket (SP+) | result: less likely to speed
+        - Negative (SP-) presentation of stimulus is removed, behaviour is weaked
+            Child swears at dinner table (R) -> Sent to room (SP-) | result: less likely to swear at dinner table
+        
+        Time-out: loss of access to most/all positive reinforcers for a brief period of time
+        Reponse cost: removal of a specific reinforcer
+
+    Immediate Vs Delayed Reinforcement
+        - The more dealyed a reinforcer after behaviour, the weaker the effect. Immediate is better for learning
+    
+    Primary and Secondary Reinforcers
+        Primary (unconditioned): Biologically determined or survival value for the individual
+        Secondary (conditioned): Previously neutral stimulus that has been repeatedly paired with an established reinforcer
+            Generalized secondary reinforcers: reinforcer that are paired with a wide variety of other primay reinforcers. Ex. money
+
+    Intrinsic Reinforcement: the mere act of performing the behaviour
+    Extrinsic Reinforcement: some consequence that is external to the behaviour
+
+    Natural Reinforcers: provided for certain behaviours | ex. putting something up for sale and getting money for it
+    Contrived Reinforcers: arranged to modify a behabiour; not a typical consequence | ex. studying for 1hr leads to 12hrs of whatever you want
+
+    Shaping: gradual creation or steps of a new behaviour through reinforcement of successively closer approximations. "creating new baseline"
+
 Chapter 7 Feb 28, 2025
 
 Schedule of reinforcement
@@ -581,72 +646,7 @@ the response requirement thtat must be met to obtain reinforcement
         as maximize overall reinforcement. They will distribute its activities in such ways to draw as near
         to the bliss point as possible.
 
-Chapter 6
-
-Operant Conditioning: is learning where the future frequency or probability of behaviour is controlled by its consequences.
-
-Law of Effect (Edwin Thorndike)
-Behaviours leading to a satisfying state of affairs are strengthend/stamped in, while unsatisfying ones are weakened/stamped out
-    - discovered by puzzel box experiments with cats
-
-Skinner Box (Operant conditioning chamber)
-Automotaed box to measure animal behaviour and provide outcomes based on that behaviour. Animal "free to respond" at any rate and time
-
-Operant Behaviour (R): a class of emitted responses that result in certain consequences which affects
-the future frequency of these responses. -> means emitted or voluntarly
-    EX:
-    Curse at parents (R) -> Grounded -- results in less likely to curse at parents in the future
-    Child yells for candy (R) -> Parents give child candy -- results in child for yelling
-
-Operant Consequences
-    I) Reinforcers (SR): increases the frequency of behaviour
-    II) Punishers (SP): decreases
-
-Discriminative stimulus (SD): the presence of which responses are reinforced and in the absence of which they are not reinforced.
-    EX
-    Parents Home (SD): Make a mess (R) -> Grounded (SP)
-
-    Descriminative stimulus for extinction: signals absence of reinforcement or punishment (S-delta)
-    EX
-    Parents home (SD): Throw party (R) -> Grounded (SP)
-    Parents away (S-Delta) -> --
-
-Four Types of Outcome Contingencies
-    Reinforcement: encourage the response
-        - Positive (SR+) presentation of stimulus after response, behaviour is strengthened
-            Child yells in store (R) -> Give them what they want (SR+) | result: child more likely to yell in store
-        - Negative (SR-) presentation of aversive or unwanted stimulus is removed, beavhiour is strengthened
-            Take medication for headache (R) -> Headache goes away (SR-) | result: take medication when headache occurs
-        
-        Escape behaviour: results in termination, behaviour strengthen
-        Avoidance behaviour results in prevention, behaviour strengthen
-
-    Punishment: decrease the likelyhood of response
-        - Positive (SP+) presentation of stimulus after response, behaviour is weakened
-            Speeding (R) -> Cop gives ticket (SP+) | result: less likely to speed
-        - Negative (SP-) presentation of stimulus is removed, behaviour is weaked
-            Child swears at dinner table (R) -> Sent to room (SP-) | result: less likely to swear at dinner table
-        
-        Time-out: loss of access to most/all positive reinforcers for a brief period of time
-        Reponse cost: removal of a specific reinforcer
-
-    Immediate Vs Delayed Reinforcement
-        - The more dealyed a reinforcer after behaviour, the weaker the effect. Immediate is better for learning
-    
-    Primary and Secondary Reinforcers
-        Primary (unconditioned): Biologically determined or survival value for the individual
-        Secondary (conditioned): Previously neutral stimulus that has been repeatedly paired with an established reinforcer
-            Generalized secondary reinforcers: reinforcer that are paired with a wide variety of other primay reinforcers. Ex. money
-
-    Intrinsic Reinforcement: the mere act of performing the behaviour
-    Extrinsic Reinforcement: some consequence that is external to the behaviour
-
-    Natural Reinforcers: provided for certain behaviours | ex. putting something up for sale and getting money for it
-    Contrived Reinforcers: arranged to modify a behabiour; not a typical consequence | ex. studying for 1hr leads to 12hrs of whatever you want
-
-    Shaping: gradual creation of a new behaviour through reinforcement of successively closer approximations.
-
-
+Chapter 8
 
 
 
