@@ -590,4 +590,11 @@ Behaviours leading to a satisfying state of affairs are strengthend/stamped in, 
     - discovered by puzzel box experiments with cats
 
 Skinner Box (Operant conditioning chamber)
-Automotaed box to measure animal behaviour and provide outcomes based on that behaviour
+Automotaed box to measure animal behaviour and provide outcomes based on that behaviour. Animal "free to respond" at any rate and time
+
+Operant Behaviour (R): a class of emitted responses that result in certain consequences which affects the future frequency of these responses.
+    EX:
+    Curse at parents (R) -> Grounded -- results in less likely to curse at parents in the future
+    Child yells for candy (R) -> Parents give child candy -- results in child for yelling
+
+
