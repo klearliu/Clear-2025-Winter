@@ -648,9 +648,37 @@ the response requirement thtat must be met to obtain reinforcement
 
 Chapter 8
 
+Stimulus Control: presence of an SD reliably affects the probability of the behaviour being expressed. uses the term "evokes"
 
+Stimulus Generalization in Operant Conditioning
+The likelyhood of a response being emitted that had a consequence associated with it
+    Generalization gradient: a method of depicting the strength of responding in the presence of 
 
+Stimulus descrimination
+tendency for an operant response to be emitted more in the presence of one stimulus than another
 
+SD exerts stimulus control over the behaviour
+SD evokes the behaviour
 
+Peak Shift Effect
+The peak of a generalization gradient following discrimination training will shift fromt he SD to a stimulus that's further
+removed from the S-Delta
+
+Excitation develops around SD
+Inhibition develops around S-Delta
+
+Mutiple schedules used to study stimulus control
+Consist of two or more independent schedules presented in sequence each resulting in reinforcement and each havin a distinctive SD
+
+Behavioural Contrast: when the change in the rate of reinforcement on one component produces an opposite change in the rate of response
+Negative contrast effect: An increase in the rate of reinforcement on one component produces a decrease in the rate of reponse (2nd goes down)
+Postive contrast effect: A decrease in the rate of reinforcement on one component produces a increase in the rate of response (2nd goes up)
+
+Anticipatory Contrast
+Rate of response varies inversely with an upcoming change in the rate of reinforcement
+
+Fading and Errorless descrimination training
+    - A gradual training procedure that minimizes the number of errors where the faded thing that turns bold will be ignored
+    - training animals go through this regime
 
 
