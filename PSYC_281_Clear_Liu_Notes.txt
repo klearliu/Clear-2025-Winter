@@ -680,5 +680,3 @@ Rate of response varies inversely with an upcoming change in the rate of reinfor
 Fading and Errorless descrimination training
     - A gradual training procedure that minimizes the number of errors where the faded thing that turns bold will be ignored
     - training animals go through this regime
-
-
