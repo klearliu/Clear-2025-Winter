@@ -214,7 +214,24 @@ Process for storytelling with data
 - story structure
 	begninning, middle, end
 
+Mar 11, 2025
+Class contained a recap of A7 and common mistakes on trendlines
+Class goes over how stretching the x-axis can manipulate data's trendline(s)
 
+Visualizing Time Series Data
+	Time series is a set of observations recorded at regular intervals
+	Data points are arranged in chronological order
+
+Cross sectional
+	collected from several entities at a single point in time
+
+Secular Trends are smooth, regular, and long-term movement of a series
+
+Cyclical Trends repetitive and modulating
+
+Irregular Variations, changes due to unusual events
+
+Class dives into Gnatt charts for preperations for A8
 
 
 
