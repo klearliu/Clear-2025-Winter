@@ -1,682 +1,720 @@
-Jan 10, 2025 - Chapter 1
-
-Textbook: Introduction to Learning Behavior (6th Ed) Wadsworth Cengage Learning
-IBSN: 9780357658475
-
-12 weekly quizzes, at the end top 11 will be evaluated.
-
-Fill-in-the-Blanks exercises are optional but will benefit 6% of your grade (Unlimited)
-
-3 Exams are distinctive and will not be carried over.
-Short answer questions on exams will come word for word from “select study questions” found in each module online.
-
-At the very latest is 1 week after the due date or grace period.
-
-Exam Dates
-Ch1-4 | Feb 5, 2025 6-7:30pm
-Ch5-8 | Mar 5, 2025 6-7:30pm
-Ch9-12 | Apr 5, 2025 6-7:30pm
-
-Jan 16, 2025
-
-Methoed of Research in Psychology
-
-Plato
-"Everything we know is inborn (nativist/nature perspective)"
-
-Aristotle
-"Knowledge is acquired through experience (empiricist/nurutre perspective)"
-
-    Four Laws of Association:
-    1) Law of Similarity: Connect things that are alike
-        (ex. thinking of a cat when we see a lion).
-    2) Law of Contrast: Thoughts of one extreme lead to thoughts of its opposite
-        (ex. white leads to black).
-    3) Law of Contiguity: We link things that happen close together in time or space
-        (ex. lightning strike and hearing thunder soon after).
-    4) Law of Frequency: The more often two things occur together, the stronger their association
-        (ex. two people being together leads to them being close).
-
-Descartes
-"Human behaviour are not governed by free-will or reason"
-Mind-Body (Cartesian) Dualism
-    Mind: Voluntary behaviour
-    Body: Involuntary behaviour (injury causes a reaction w/o will)
-Only humans have a mind
-
-British Empiricists avocated that all knowledge is due to experience:
-    John Locke:
-        All ideas are acquired through experience, haphazardly
-        Humans are born Tabula Rasa; a clean slate
-
-Structuralism: First scientific study of human experience
-    Edward B. Titchener
-        Studied the basic elements of conscious experience through a technique called introspection
-
-Funtionalism: Psychology should study the adaptive processes of the mind (asking why)
-    William James
-        Based on Darwin's theory of evolution
-        Study of non-human animals encouraged to give insight into human behaviour
-
-Theory of Evolution
-    Provides how changes occur in a species across generations through Natural Selection
-    Difference between humans and non-human animals seen as one of degree, not kind.
-
-Behaviourism
-    John Watson
-        Natural science approach and emphasises the study of environmental influences on observable behaviour
-        Psychology should only focus on observables
-
-S-R Theory: Learning involves attaching specific responses to specific stimuli in evnvironment
-Behaviour Analyst: basic principles of behaviour
-Applied behaviour analyst: applies basic principles to developing better metheods
-
-The Five Schools of Behaviourism
-    1) Watson's Methodological Behaviourism
-        Mechanistic (molecular) theory of Behaviourism
-            An envioronmental event (stimulus) and specific behaviour (response)
-        Psychologists should only study environmental influences on behaviours that can be directly observed
-        EX: A rat is shocked, so it will try to avoid that area.
-    2) Hull's Neobehaviourism
-        Intervening variables influence behaviour (feelings influencing behaviour) also molecular
-        Internal states like current status alters observable behaviour
-        EX: A hungry rat performs differently in a maze than a non-hungry one.
-        These things must be objectively identified, so you cannot say the rat is hungry, but can say the rat hasn't
-        eaten in 5 days.
-    3) Tolman's Cognitive Behaviourism
-        Scientists must consider the purpose or goal of an organism to really understand behaviour (current objectives influencing behaviour)
-        EX: two hungry rats race to the end of a maze, one is aware of the prize and the other is not, the one that is aware
-        will behave differently. Cognitive map. Latent Learning
-    4) Bandura's Social Learning Theory
-        Cognitive-behavioural approach that emphasizes the role of observational learning and cognitive variables in explaining human behaviour.
-        Basically reciprocal determinism or molar theory
-        EX: Environmental influences can affect thought and feelings, or thoughts and feelings may influence actions.
-    5) Skinner's Radical Behaviourism
-        Emphasized the influence of the environment on obserbale behaviour rejects the use of internal events to explain behaviour.
-        Only Environmental events can change thoughts and feelings and/or observable behaviour
-
-Behaviour analysis is the basic science that is concerned with investigating principles of behaviour
-Applied behaviour analysis is the technology that applies these principles to the practical modification of behaviour in the real world.
-
-Jan 24, 2025 - Chapter 2
-
-Terms and Definitions Related to metheods
-
-Variable: a characteristic of a person, place, or thing, that can change
-    independant variable: manipulating
-    dependent variable: the measured of the independant
-
-Functional Relationship:
-    relationship between changes in an independent variable and dependent variable.
-    results in if there is IS or IS NOT
-
-Durand & Carr, 1992
-They did a research of study impact of teacher attention in grade school with behavioural issues.
-They tested to see if the teacher gives them more attention if it impacted or caused disruption.
-They concluded a func relationship that high teacher attention results to no disruptive behaviour
-
-Simulus: Any event that can potentially influence behaviour
-Response: A particular instance of behaviour
-
-A stimuli can either be appetitive or aversive
-    Appetitive Stimuli: event that an organism will seek out
-    Aversive Stimuli: event that an organism will avoid
-
-Motivating Operations: anything that affects the appetivieness or aversiveness of an event
-    Establishing Operations (EO): increase the appetivieness or aversiveness of an event
-        "makes good things better or bad things worse"
-    Abolishing Operations (AO): Decreases the appetitiveness or aversiveness of an event
-        "if you ate a bunch of sushi you're likely less want sushi"
-
-Contiguity: Means closeness or nearness
-    Temporal: close within time
-    Spaital: distance
-Contingency: predicitve functional relationship between two events. Probable occurence.
-
-Behavioural (operational):
-    - A desctiopn of a property in concrete measurable terms
-    - Should be precise, allow quantification, and allow agreement between observers
-
-Recording Methods:
-    1) Rate of response: frequency over time
-    2) Intensity: force or magnitude of the behaviour
-    3) Duration: length of time that the individual repeatedly performs a behaviour
-    4) Speed: length in time i takes for an episode of behaviour to occur from start to finish
-    5) Latency: the length of time required for a behaviour to begin
-    6) Interval recording: whether a behaviour occurs within a series of continuous invervals
-    7) Time-sampling Recording: whether a vehaviour occurs within a series of discountinuous intervals
-    8) Topography: physical form of the behaviour (confidence)
-    9) Number of Errors: number of mistakes made vs correct responses; usually shown as percentage
-
-Interobserver Reliability/Agreement (IOA)
-    Two or more observers calculate the extent to which the ovservers agreement
-    A/(A+D), typically 80-90 % of agreement is required
-
-Descriptive Research
-    - Gathering information in a situation where it naturally occurs
-    - no manipulation of variable or context
-    + great for gaining a rich, detatiled understanding of behaviour
-    - does not allow a researcher to draw cause and effect conclusions (no control)
-
-Experimental Research:
-    Group Designs: In each, one or more independent variables are manipulated
-        Control Group Design -> individuals are assigned to a treatment while the other doesn't receive the actual treatment (controlled group)
-        Factorial Design -> examines the effects of two or more indpendent variables across groups of subjects
-        Comparative Design -> where different species make up one of the independent variables
-
-Group Designs
-    + Data is applicable to a large population
-    + Cause-effect conclusions possible
-    - requires a large number of subjects
-    - Often impractical for indidual or treatment based
-    - Little attention paid to individual performance
-    - Data analyzed only at the end of the experiment
-
-Single Subject Designs
-    Simple-comparison (AB) design -> measure currently and compare to after
-    Reversal design (ABA or ABAB) -> involves the repeated alternations between a baseline period and a treatment period
-    Two-treatment Reversal Design (ABCAC) -> application of the reversal design to test the effectiveness of more than one treatment
-        + allows entire experiment ot be conducted on a single subjects
-        + may not need statistical tests to tell that the treatment is effective in changing behaviour
-        - behaviour may not revert back to baseline
-        - inappropiate for long-lasting effects to "unteach a skill"
-        - may be ethically inappropriate
-    Multiple-baseline designs -> Treatment is instituted at successive points for two or more:
-        1) persons  2) settings or 3) behaviours
-        + appropriate for treatments producing permanent change or unethical to withdraw once improvement is seen
-        - Need more than 1 people, setting, behaviour
-        - Treatment effect might generalize across settings or behaviour
-    Changing-criterion design -> The effect of treatment is being systematically altered
-
-    Non-human Animal Research for Behaviour?
-        + can control the animal's genetic makeup
-        + can control the animal's learning history
-        + often able to strictly control the experimental environment for animals than for humans
-        + cannot ethically be conducted on humans
-        - Animals are not humans; may not apply to people
-        - Morally wrong to conduct research on animals who do not get to volunteer
-    
-Jan 28, 2025 - Chapter 3
-    
-Elicited Behaviour
-    - Automatic reaction, involuntary, occurs in response to stimuli
-
-    Reflexes
-        - simple, automatic response to a stimulus
-        - startle, orienting, flexion
-
-    Reflex Arcs: the neural structure containing sensory neurons, interneuorons and motor neuorons
-    Fixed Action Patterns: a fixed sequence of responses slicited by a specific stimulus. Genetically programmed.
-    Sign Stimulus (or releaser): the specific stimulus that elicits a fixed action pattern
-
-Simple Mechanisms of Learning
-
-    Habituation: Decrease in the strength of an elicited response following repeated
-    presentations of the stimulus that natuarlly elicits that response.
-
-    Long-term Habituation
-    Stimuli are presented spaced overtime, slow to occur, slow to recover
-
-    Short-term Habituation
-    Stimuli are presented close together over time, quick to occur and recover.
-
-    Sensitization
-    Increase in the strength of an elicted response following repeated presentations
-    of the stimulus that naturally elicits that reponse
-
-    Dishabituation
-    When habituated responses to a stimulus reappear following the presentation of another,
-    seemingly unrelated, novel stimulus.
-
-    Factors that influence habituation and sensitization
-        Stimulus Intensity
-        - Low intensity typically leads to Habituation
-        - Moderate intensity leads to a initial period of sensitization, followed by Habituation
-        - High intensity leads to sensitization
-
-        Adatative Significance, unexpected sounds from stimuli
-        Priror Learning, expected to have the stimuli
-        Individual factors like temperament and personality
-    
-    Opponent-Process Theory of Emotion
-        A-Process/primary process elicited directly by an event
-        B-Process/opponent process elicited by the a process; designed to counteract
-
-        Four Important Characteristics of a and b processes
-        1) A-process correlates closely with the presence of the emotional event
-        2) B-process is slow to increase and slow to Decrease
-        3) Repeated presentations of the emotional event, the b-process increases in both strength and Duration
-        4) A-process and b-process tend to be hedonically opposite of each other (emotionally opposite)
-
-Classical Conditioning: A form of learning where a stimulus comes to elicit a repsonse because it has been
-paired with another simulus.
-
-Ivan Pavlov Discovery of Classical Conditioning
-- Digestive research
-    - Found anticipatroy secretions to environmental events accidentally
-    - How siliva production influences digestion
-    - A cannula was attached to dogs to measure how much saliva they produced
-    - They would prepare food from a seperate room.
-    - When they walk into to the room with food the bell would ring from the door
-    and dogs would produce most salivas when food were placed in their mouth.
-    - Eventaully the sound of the bell was paired with the taste of food
-    - Therefore dogs would produce most saliva while the bell rings and when eating food
-
-Types of Classical Conditioning Stimulus
-- Neutral Stimulus (NS) - no natural or learned associations
-- Unconditioned Stimulus (US) - biologically significant stimulus that already has a response associated with it
-- Unconitioned Response (UR) - natural response to US
-- Conditioned Stimulus (CS) - a previously neutral stimulus that comes to elicit a conditioned response
-- Conditioned Reponse (CR) - elicited by a CS. Develops with many pairings of the CS with the US
-
-Conditioning Diagrams
--> means elicits
-: means followed by
--- means n/a
-
-Example 1:
--before conditioning
-    Food (US) -> Salivation (UR)
-    Bell (NS) -> No salivation (--)
--during conditioning
-    bell (NS) -> Salivation (UR)
--after conditioning
-    bell (CS) -> Salivation (CR)
-
-Example 2:
-Bee Buzz (NS): Sting (US) -> Fear (UR)
-Bee Buzz (CS) -> Fear (CR)
-
-Two Unconditioned Stimulus:
-1) Appetive conditioning: US is an event the animal will approach or seek
-2) Aversive conditioning: US something the animal will try to avoid
-
-Conditioned Suppression
-    Measuring the level of fear an animal feels
-    Suppression Ratio = (# of CS Responses)/(# of CS Responses + # of pre CS Responses)
-    Lower Suppression Ratio means greater the Suppression
-    0.5 no suppresion
-    0 total suppression
-
-Excitatory and Inhibitory Conditioning
-    Excitatory conditioning: CS signals the presentation of a US, leads to a response
-    Inhibitory conditioning: CS signals the absense/removal of a US therefore inhibits a repsonse
-
-Temporal Factors in Conditioning
-1) Short Delayed while cs is still being played, a response (US) is made
-2) Trace after cs is done a response is then made
-3) Long Delayed while cs is still being played, but longer, a response is made
-4) Simultaneous CS and US happens at the sametime
-5) Backward US happens before CS
-For learning Delay would be best
-
-Pseudoconditioning
-An elicited response that appears to be a CR, but actually is the result of
-sensitization rather than conditioning.
-
-Jan 29, 2025 - Chapter 4
-Acquisition
-The process of developing and strengthening a conditioned response
-
-Asymptote: Maximum amount of conditioning that can take place
-
-Extinction is both a process and a procedure:
-    Process: loss of ability for CS to elicit a CR; CS w/o US
-    Procedure: repeated presentation of CS in the absence of the US
-
-Spontaneous Recovery
-    The reappearance of a conditioned response to a CS following a rest period after Extinction
-
-Stimulus Generalization: Tendency for a CS to occur in the presence of a stimulus that is similar to the CS
-Stimulus Discrimination: Occurs when we exhibit less pronounced CR to stimuli that differ from the orignal CS
-
-Experimental Neurosis
-An experimentally produced disorder in which animals exposed to unpredictable events devlop neurotic-like symptoms.
-Similar to PTSD symptoms in humans
-
-Extensions to Classical Conditioning
-1) High-Order Conditioning
-    A procedure in which a stimulus that is associated witha CS can also become a CS w/o being paird with a US.
-    CR will always be bigger than UR
-    EX:
-    Metronome (NS1): Food (US) -> Salivation (UR)
-    Metronome (CS1) -> Salivation (UR)
-
-    Black square (NS2): Metronome (CS1) -> Salivation (CR)
-    Black square (CS2) -> Salivation (CR)
-
-2) Sensory Preconditioning
-    When one stimulus is conditioned as a CS, another stimulus, with which it was previously associated
-    becomes a CS w/o being paired with a US
-    EX:
-    Light (NS1): Tone (NS2) -> -- (100 times)
-
-    Light (NS1): Shock (US) -> Flinch (UR)
-    Light (CS1) -> Flinch (CR)
-
-    Tone (CS2) -> Flinch
-
-3) US Revaluation
-    Post-conditioning presentation of a US at a different level of intensity can subsequently altered
-    the strength of the response of a previously conditioned CS.
-    US inflation: CR produced by the CS gets stronger because a stronger US was presented
-    US deflation: CR produced by the CS gets weaker because a weaker US was presented
-    EX:
-    Buzzer (NS): 50mV Shock (US) -> Weak Flinch (UR)
-    Buzzer (CS): Weak Flinkch (CR)
-
-    200 mV Shock (US) -> Very Strong Flinch (UR)
-
-    Buzzer (CS) -> Very Strong Flinch (CR)
-
-Four Examples of Specificity in Classical Conditioning
-
-    Compound Stimulus
-    Consists of the simultaneous presentation of two or more individual stimuli
-
-    Stimulus Saliency
-    Perceived intensity of a stimulus
-
-    [] in diagrams mean compound
-
-    1) Overshadowing | shows that classical conditioning relies more than just temporal contiguity
-    When the more salient member of a compound stimulus is more radily conditioned as a CS and thereby interferes
-    with conditionoing of the less salient member.
-
-    [Bright Light + Weak Tone] (NS): Shock (US) -> Fear (UR)
-
-    [Bright Light (CS)] -> Fear (CR)
-    Weak Tone (NS) -> -- (no reaction)
-
-    2) Blocking | temporal contiguity is not the only important factor to determine if conditioning will take place
-    When the presence of an establishd CS interferes with the conditioning of a new CS
-    [Light (CS) + Tone (NS)]: Shock (US) -> Fear (UR)
-
-    Light (CS) -> Fear (CR)
-    Tone (NS) -> -- (no reaction)
-
-    3) Occasion setting | classically conditioned associations can be situation specific
-    A procedure in which a stimulus signals whether a CS is likely to be followed by a US and thereby controls whether
-    the CS will elicit a CR
-
-    Light On
-        Tone (NS): Shock (US) -> Fear (UR)
-    
-    Light Off
-        Tone (NS): nothing (--) -> no fear (--)
-    
-    Ligh On (OS or occasion setter)
+Exam 1
+    Jan 10, 2025 - Chapter 1
+
+    Textbook: Introduction to Learning Behavior (6th Ed) Wadsworth Cengage Learning
+    IBSN: 9780357658475
+
+    12 weekly quizzes, at the end top 11 will be evaluated.
+
+    Fill-in-the-Blanks exercises are optional but will benefit 6% of your grade (Unlimited)
+
+    3 Exams are distinctive and will not be carried over.
+    Short answer questions on exams will come word for word from “select study questions” found in each module online.
+
+    At the very latest is 1 week after the due date or grace period.
+
+    Exam Dates
+    Ch1-4 | Feb 5, 2025 6-7:30pm
+    Ch5-8 | Mar 5, 2025 6-7:30pm
+    Ch9-12 | Apr 5, 2025 6-7:30pm
+
+    Jan 16, 2025
+
+    Methoed of Research in Psychology
+
+    Plato
+    "Everything we know is inborn (nativist/nature perspective)"
+
+    Aristotle
+    "Knowledge is acquired through experience (empiricist/nurutre perspective)"
+
+        Four Laws of Association:
+        1) Law of Similarity: Connect things that are alike
+            (ex. thinking of a cat when we see a lion).
+        2) Law of Contrast: Thoughts of one extreme lead to thoughts of its opposite
+            (ex. white leads to black).
+        3) Law of Contiguity: We link things that happen close together in time or space
+            (ex. lightning strike and hearing thunder soon after).
+        4) Law of Frequency: The more often two things occur together, the stronger their association
+            (ex. two people being together leads to them being close).
+
+    Descartes
+    "Human behaviour are not governed by free-will or reason"
+    Mind-Body (Cartesian) Dualism
+        Mind: Voluntary behaviour
+        Body: Involuntary behaviour (injury causes a reaction w/o will)
+    Only humans have a mind
+
+    British Empiricists avocated that all knowledge is due to experience:
+        John Locke:
+            All ideas are acquired through experience, haphazardly
+            Humans are born Tabula Rasa; a clean slate
+
+    Structuralism: First scientific study of human experience
+        Edward B. Titchener
+            Studied the basic elements of conscious experience through a technique called introspection
+
+    Funtionalism: Psychology should study the adaptive processes of the mind (asking why)
+        William James
+            Based on Darwin's theory of evolution
+            Study of non-human animals encouraged to give insight into human behaviour
+
+    Theory of Evolution
+        Provides how changes occur in a species across generations through Natural Selection
+        Difference between humans and non-human animals seen as one of degree, not kind.
+
+    Behaviourism
+        John Watson
+            Natural science approach and emphasises the study of environmental influences on observable behaviour
+            Psychology should only focus on observables
+
+    S-R Theory: Learning involves attaching specific responses to specific stimuli in evnvironment
+    Behaviour Analyst: basic principles of behaviour
+    Applied behaviour analyst: applies basic principles to developing better metheods
+
+    The Five Schools of Behaviourism
+        1) Watson's Methodological Behaviourism
+            Mechanistic (molecular) theory of Behaviourism
+                An envioronmental event (stimulus) and specific behaviour (response)
+            Psychologists should only study environmental influences on behaviours that can be directly observed
+            EX: A rat is shocked, so it will try to avoid that area.
+        2) Hull's Neobehaviourism
+            Intervening variables influence behaviour (feelings influencing behaviour) also molecular
+            Internal states like current status alters observable behaviour
+            EX: A hungry rat performs differently in a maze than a non-hungry one.
+            These things must be objectively identified, so you cannot say the rat is hungry, but can say the rat hasn't
+            eaten in 5 days.
+        3) Tolman's Cognitive Behaviourism
+            Scientists must consider the purpose or goal of an organism to really understand behaviour (current objectives influencing behaviour)
+            EX: two hungry rats race to the end of a maze, one is aware of the prize and the other is not, the one that is aware
+            will behave differently. Cognitive map. Latent Learning
+        4) Bandura's Social Learning Theory
+            Cognitive-behavioural approach that emphasizes the role of observational learning and cognitive variables in explaining human behaviour.
+            Basically reciprocal determinism or molar theory
+            EX: Environmental influences can affect thought and feelings, or thoughts and feelings may influence actions.
+        5) Skinner's Radical Behaviourism
+            Emphasized the influence of the environment on obserbale behaviour rejects the use of internal events to explain behaviour.
+            Only Environmental events can change thoughts and feelings and/or observable behaviour
+
+    Behaviour analysis is the basic science that is concerned with investigating principles of behaviour
+    Applied behaviour analysis is the technology that applies these principles to the practical modification of behaviour in the real world.
+
+    Jan 24, 2025 - Chapter 2
+
+    Terms and Definitions Related to metheods
+
+    Variable: a characteristic of a person, place, or thing, that can change
+        independant variable: manipulating
+        dependent variable: the measured of the independant
+
+    Functional Relationship:
+        relationship between changes in an independent variable and dependent variable.
+        results in if there is IS or IS NOT
+
+    Durand & Carr, 1992
+    They did a research of study impact of teacher attention in grade school with behavioural issues.
+    They tested to see if the teacher gives them more attention if it impacted or caused disruption.
+    They concluded a func relationship that high teacher attention results to no disruptive behaviour
+
+    Simulus: Any event that can potentially influence behaviour
+    Response: A particular instance of behaviour
+
+    A stimuli can either be appetitive or aversive
+        Appetitive Stimuli: event that an organism will seek out
+        Aversive Stimuli: event that an organism will avoid
+
+    Motivating Operations: anything that affects the appetivieness or aversiveness of an event
+        Establishing Operations (EO): increase the appetivieness or aversiveness of an event
+            "makes good things better or bad things worse"
+        Abolishing Operations (AO): Decreases the appetitiveness or aversiveness of an event
+            "if you ate a bunch of sushi you're likely less want sushi"
+
+    Contiguity: Means closeness or nearness
+        Temporal: close within time
+        Spaital: distance
+    Contingency: predicitve functional relationship between two events. Probable occurence.
+
+    Behavioural (operational):
+        - A desctiopn of a property in concrete measurable terms
+        - Should be precise, allow quantification, and allow agreement between observers
+
+    Recording Methods:
+        1) Rate of response: frequency over time
+        2) Intensity: force or magnitude of the behaviour
+        3) Duration: length of time that the individual repeatedly performs a behaviour
+        4) Speed: length in time i takes for an episode of behaviour to occur from start to finish
+        5) Latency: the length of time required for a behaviour to begin
+        6) Interval recording: whether a behaviour occurs within a series of continuous invervals
+        7) Time-sampling Recording: whether a vehaviour occurs within a series of discountinuous intervals
+        8) Topography: physical form of the behaviour (confidence)
+        9) Number of Errors: number of mistakes made vs correct responses; usually shown as percentage
+
+    Interobserver Reliability/Agreement (IOA)
+        Two or more observers calculate the extent to which the ovservers agreement
+        A/(A+D), typically 80-90 % of agreement is required
+
+    Descriptive Research
+        - Gathering information in a situation where it naturally occurs
+        - no manipulation of variable or context
+        + great for gaining a rich, detatiled understanding of behaviour
+        - does not allow a researcher to draw cause and effect conclusions (no control)
+
+    Experimental Research:
+        Group Designs: In each, one or more independent variables are manipulated
+            Control Group Design -> individuals are assigned to a treatment while the other doesn't receive the actual treatment (controlled group)
+            Factorial Design -> examines the effects of two or more indpendent variables across groups of subjects
+            Comparative Design -> where different species make up one of the independent variables
+
+    Group Designs
+        + Data is applicable to a large population
+        + Cause-effect conclusions possible
+        - requires a large number of subjects
+        - Often impractical for indidual or treatment based
+        - Little attention paid to individual performance
+        - Data analyzed only at the end of the experiment
+
+    Single Subject Designs
+        Simple-comparison (AB) design -> measure currently and compare to after
+        Reversal design (ABA or ABAB) -> involves the repeated alternations between a baseline period and a treatment period
+        Two-treatment Reversal Design (ABCAC) -> application of the reversal design to test the effectiveness of more than one treatment
+            + allows entire experiment ot be conducted on a single subjects
+            + may not need statistical tests to tell that the treatment is effective in changing behaviour
+            - behaviour may not revert back to baseline
+            - inappropiate for long-lasting effects to "unteach a skill"
+            - may be ethically inappropriate
+        Multiple-baseline designs -> Treatment is instituted at successive points for two or more:
+            1) persons  2) settings or 3) behaviours
+            + appropriate for treatments producing permanent change or unethical to withdraw once improvement is seen
+            - Need more than 1 people, setting, behaviour
+            - Treatment effect might generalize across settings or behaviour
+        Changing-criterion design -> The effect of treatment is being systematically altered
+
+        Non-human Animal Research for Behaviour?
+            + can control the animal's genetic makeup
+            + can control the animal's learning history
+            + often able to strictly control the experimental environment for animals than for humans
+            + cannot ethically be conducted on humans
+            - Animals are not humans; may not apply to people
+            - Morally wrong to conduct research on animals who do not get to volunteer
+        
+    Jan 28, 2025 - Chapter 3
+        
+    Elicited Behaviour
+        - Automatic reaction, involuntary, occurs in response to stimuli
+
+        Reflexes
+            - simple, automatic response to a stimulus
+            - startle, orienting, flexion
+
+        Reflex Arcs: the neural structure containing sensory neurons, interneuorons and motor neuorons
+        Fixed Action Patterns: a fixed sequence of responses slicited by a specific stimulus. Genetically programmed.
+        Sign Stimulus (or releaser): the specific stimulus that elicits a fixed action pattern
+
+    Simple Mechanisms of Learning
+
+        Habituation: Decrease in the strength of an elicited response following repeated
+        presentations of the stimulus that natuarlly elicits that response.
+
+        Long-term Habituation
+        Stimuli are presented spaced overtime, slow to occur, slow to recover
+
+        Short-term Habituation
+        Stimuli are presented close together over time, quick to occur and recover.
+
+        Sensitization
+        Increase in the strength of an elicted response following repeated presentations
+        of the stimulus that naturally elicits that reponse
+
+        Dishabituation
+        When habituated responses to a stimulus reappear following the presentation of another,
+        seemingly unrelated, novel stimulus.
+
+        Factors that influence habituation and sensitization
+            Stimulus Intensity
+            - Low intensity typically leads to Habituation
+            - Moderate intensity leads to a initial period of sensitization, followed by Habituation
+            - High intensity leads to sensitization
+
+            Adatative Significance, unexpected sounds from stimuli
+            Priror Learning, expected to have the stimuli
+            Individual factors like temperament and personality
+        
+        Opponent-Process Theory of Emotion
+            A-Process/primary process elicited directly by an event
+            B-Process/opponent process elicited by the a process; designed to counteract
+
+            Four Important Characteristics of a and b processes
+            1) A-process correlates closely with the presence of the emotional event
+            2) B-process is slow to increase and slow to Decrease
+            3) Repeated presentations of the emotional event, the b-process increases in both strength and Duration
+            4) A-process and b-process tend to be hedonically opposite of each other (emotionally opposite)
+
+    Classical Conditioning: A form of learning where a stimulus comes to elicit a repsonse because it has been
+    paired with another simulus.
+
+    Ivan Pavlov Discovery of Classical Conditioning
+    - Digestive research
+        - Found anticipatroy secretions to environmental events accidentally
+        - How siliva production influences digestion
+        - A cannula was attached to dogs to measure how much saliva they produced
+        - They would prepare food from a seperate room.
+        - When they walk into to the room with food the bell would ring from the door
+        and dogs would produce most salivas when food were placed in their mouth.
+        - Eventaully the sound of the bell was paired with the taste of food
+        - Therefore dogs would produce most saliva while the bell rings and when eating food
+
+    Types of Classical Conditioning Stimulus
+    - Neutral Stimulus (NS) - no natural or learned associations
+    - Unconditioned Stimulus (US) - biologically significant stimulus that already has a response associated with it
+    - Unconitioned Response (UR) - natural response to US
+    - Conditioned Stimulus (CS) - a previously neutral stimulus that comes to elicit a conditioned response
+    - Conditioned Reponse (CR) - elicited by a CS. Develops with many pairings of the CS with the US
+
+    Conditioning Diagrams
+    -> means elicits
+    : means followed by
+    -- means n/a
+
+    Example 1:
+    -before conditioning
+        Food (US) -> Salivation (UR)
+        Bell (NS) -> No salivation (--)
+    -during conditioning
+        bell (NS) -> Salivation (UR)
+    -after conditioning
+        bell (CS) -> Salivation (CR)
+
+    Example 2:
+    Bee Buzz (NS): Sting (US) -> Fear (UR)
+    Bee Buzz (CS) -> Fear (CR)
+
+    Two Unconditioned Stimulus:
+    1) Appetive conditioning: US is an event the animal will approach or seek
+    2) Aversive conditioning: US something the animal will try to avoid
+
+    Conditioned Suppression
+        Measuring the level of fear an animal feels
+        Suppression Ratio = (# of CS Responses)/(# of CS Responses + # of pre CS Responses)
+        Lower Suppression Ratio means greater the Suppression
+        0.5 no suppresion
+        0 total suppression
+
+    Excitatory and Inhibitory Conditioning
+        Excitatory conditioning: CS signals the presentation of a US, leads to a response
+        Inhibitory conditioning: CS signals the absense/removal of a US therefore inhibits a repsonse
+
+    Temporal Factors in Conditioning
+    1) Short Delayed while cs is still being played, a response (US) is made
+    2) Trace after cs is done a response is then made
+    3) Long Delayed while cs is still being played, but longer, a response is made
+    4) Simultaneous CS and US happens at the sametime
+    5) Backward US happens before CS
+    For learning Delay would be best
+
+    Pseudoconditioning
+    An elicited response that appears to be a CR, but actually is the result of
+    sensitization rather than conditioning.
+
+    Jan 29, 2025 - Chapter 4
+    Acquisition
+    The process of developing and strengthening a conditioned response
+
+    Asymptote: Maximum amount of conditioning that can take place
+
+    Extinction is both a process and a procedure:
+        Process: loss of ability for CS to elicit a CR; CS w/o US
+        Procedure: repeated presentation of CS in the absence of the US
+
+    Spontaneous Recovery
+        The reappearance of a conditioned response to a CS following a rest period after Extinction
+
+    Stimulus Generalization: Tendency for a CS to occur in the presence of a stimulus that is similar to the CS
+    Stimulus Discrimination: Occurs when we exhibit less pronounced CR to stimuli that differ from the orignal CS
+
+    Experimental Neurosis
+    An experimentally produced disorder in which animals exposed to unpredictable events devlop neurotic-like symptoms.
+    Similar to PTSD symptoms in humans
+
+    Extensions to Classical Conditioning
+    1) High-Order Conditioning
+        A procedure in which a stimulus that is associated witha CS can also become a CS w/o being paird with a US.
+        CR will always be bigger than UR
+        EX:
+        Metronome (NS1): Food (US) -> Salivation (UR)
+        Metronome (CS1) -> Salivation (UR)
+
+        Black square (NS2): Metronome (CS1) -> Salivation (CR)
+        Black square (CS2) -> Salivation (CR)
+
+    2) Sensory Preconditioning
+        When one stimulus is conditioned as a CS, another stimulus, with which it was previously associated
+        becomes a CS w/o being paired with a US
+        EX:
+        Light (NS1): Tone (NS2) -> -- (100 times)
+
+        Light (NS1): Shock (US) -> Flinch (UR)
+        Light (CS1) -> Flinch (CR)
+
+        Tone (CS2) -> Flinch
+
+    3) US Revaluation
+        Post-conditioning presentation of a US at a different level of intensity can subsequently altered
+        the strength of the response of a previously conditioned CS.
+        US inflation: CR produced by the CS gets stronger because a stronger US was presented
+        US deflation: CR produced by the CS gets weaker because a weaker US was presented
+        EX:
+        Buzzer (NS): 50mV Shock (US) -> Weak Flinch (UR)
+        Buzzer (CS): Weak Flinkch (CR)
+
+        200 mV Shock (US) -> Very Strong Flinch (UR)
+
+        Buzzer (CS) -> Very Strong Flinch (CR)
+
+    Four Examples of Specificity in Classical Conditioning
+
+        Compound Stimulus
+        Consists of the simultaneous presentation of two or more individual stimuli
+
+        Stimulus Saliency
+        Perceived intensity of a stimulus
+
+        [] in diagrams mean compound
+
+        1) Overshadowing | shows that classical conditioning relies more than just temporal contiguity
+        When the more salient member of a compound stimulus is more radily conditioned as a CS and thereby interferes
+        with conditionoing of the less salient member.
+
+        [Bright Light + Weak Tone] (NS): Shock (US) -> Fear (UR)
+
+        [Bright Light (CS)] -> Fear (CR)
+        Weak Tone (NS) -> -- (no reaction)
+
+        2) Blocking | temporal contiguity is not the only important factor to determine if conditioning will take place
+        When the presence of an establishd CS interferes with the conditioning of a new CS
+        [Light (CS) + Tone (NS)]: Shock (US) -> Fear (UR)
+
+        Light (CS) -> Fear (CR)
+        Tone (NS) -> -- (no reaction)
+
+        3) Occasion setting | classically conditioned associations can be situation specific
+        A procedure in which a stimulus signals whether a CS is likely to be followed by a US and thereby controls whether
+        the CS will elicit a CR
+
+        Light On
+            Tone (NS): Shock (US) -> Fear (UR)
+        
+        Light Off
+            Tone (NS): nothing (--) -> no fear (--)
+        
+        Ligh On (OS or occasion setter)
+            Tone (CS) -> Fear (CR)
+        
+        Light Off
+            Tone (NS) -> no reaction (--)
+        
+        4) Latent Inhibition | ensures we do not develop conditioned responses to stimuli, we're paried with a US
+        A familiar stimulus is more difficult to condition as a CS than is an unfamiliar (novel) stimulus
+
+        Tone (NS): nothing (--) -> no reaction (--) {do this 1000x}
+
+        Tone (NS): shock (US) -> Fear (UR) {do this 10x}
+        Tone (NS) -> -- (no reaction)
+
+        ---
+
+        Tone (NS): nothing (--) -> no reaction (--) {do this 2x}
+
+        Tone (NS): Shock (US) -> Fear (UR) {do this 10x}
         Tone (CS) -> Fear (CR)
-    
-    Light Off
-        Tone (NS) -> no reaction (--)
-    
-    4) Latent Inhibition | ensures we do not develop conditioned responses to stimuli, we're paried with a US
-    A familiar stimulus is more difficult to condition as a CS than is an unfamiliar (novel) stimulus
 
-    Tone (NS): nothing (--) -> no reaction (--) {do this 1000x}
+    -------------------------------------------------------------------------------
 
-    Tone (NS): shock (US) -> Fear (UR) {do this 10x}
-    Tone (NS) -> -- (no reaction)
+Exam 2
+    Chapter 5
+    Stimulus Substitution Theory
+        CS acts as a substitution for US
+        if true, CR should always be same as UR
 
-    ---
+    Preparatory Response Theory
+        Purpose of conditioning is to prepare the organism for the presentation of the US
+        Allows for cases where CR and UR are different
 
-    Tone (NS): nothing (--) -> no reaction (--) {do this 2x}
+    Compensatory Response Theory
+        CR produces opposite raction of UR (to compensate)
+        Connected to opponent process theory (A/B processes)
+        Used to explain drug tolerance, cravings, and overdoses
 
-    Tone (NS): Shock (US) -> Fear (UR) {do this 10x}
-    Tone (CS) -> Fear (CR)
+        In summary:
+        B process with no A process
+        B process weakens the effect of the A process
+        So user does something to increase A process
+        Very strong A process with no B process
 
--------------------------------------------------------------------------------
+    Rescorla Wagner Model
+        Mathematical model of conditioning
+        US can only support so much conditioning and must be distibuted among the various CS that are presentation
+        Stronger stimuli (CS and US) support more contioning
+        Allows prediction of how quickly learning should occur based on knowledge of certain factors
+        It can explain overshadowing and blocking very well
+        Associative Value: amount of conditioning
+        CS will acquire the associative value and then CS will have as much and as strong as UR
 
-Chapter 5
-Stimulus Substitution Theory
-    CS acts as a substitution for US
-    if true, CR should always be same as UR
+        Overshadowing:
+        [bright light (v=0) + quiet tone (v=0)]: Food (Max v = 10) -> Salivation
+        Bright light (v=8) -> lots of salivation
+        Quiet tone (v=2) -> almost no salivation
 
-Preparatory Response Theory
-    Purpose of conditioning is to prepare the organism for the presentation of the US
-    Allows for cases where CR and UR are different
+        Blocking:
+        [bright light (v=0) + quiet tone (v=0)]: Food (Max v = 10) -> Salivation
+        Bright light (v=10) -> lots of salivation
+        Quiet tone (v=0) -> no salivation
 
-Compensatory Response Theory
-    CR produces opposite raction of UR (to compensate)
-    Connected to opponent process theory (A/B processes)
-    Used to explain drug tolerance, cravings, and overdoses
+        Rescorla Wagner model does not explain all conditioning phenomena.
 
-    In summary:
-    B process with no A process
-    B process weakens the effect of the A process
-    So user does something to increase A process
-    Very strong A process with no B process
+    Phobias: An excessive or extreme fear response to a stimulus that are not at all dangerous or
+    minimally dangerous, mostly.
 
-Rescorla Wagner Model
-    Mathematical model of conditioning
-    US can only support so much conditioning and must be distibuted among the various CS that are presentation
-    Stronger stimuli (CS and US) support more contioning
-    Allows prediction of how quickly learning should occur based on knowledge of certain factors
-    It can explain overshadowing and blocking very well
-    Associative Value: amount of conditioning
-    CS will acquire the associative value and then CS will have as much and as strong as UR
+    ex: developing a Phobias
+    Back seat of car (NS): Pain from Accident (US) -> Fear (UR)
+    Back seat of car (CS) -> Fear (CR)
 
-    Overshadowing:
-    [bright light (v=0) + quiet tone (v=0)]: Food (Max v = 10) -> Salivation
-    Bright light (v=8) -> lots of salivation
-    Quiet tone (v=2) -> almost no salivation
+    Factors that Impact Phobia Development
+        - Observational learning: w/o direct confrontations just by watching others
+        Snake on TV (NS): Look of fear from Mom's face (US) -> Fear (UR)
+        Snake on TV (CS) -> Fear (CR)
+        - temperament: INDIVIDUAL's level of emotional reactivity, genetically determined
+        - preparedness: learn certain types of behaviours/associations more easily than others, easier to develop fear of spiders than flowers
+        - incubation: strengthening of a conditioned fear response
+        - US re-evaluation: exposure to a US of a different intensity
+        - selective sensitization: exposure to an unrelated stressful event, external factors added on.
 
-    Blocking:
-    [bright light (v=0) + quiet tone (v=0)]: Food (Max v = 10) -> Salivation
-    Bright light (v=10) -> lots of salivation
-    Quiet tone (v=0) -> no salivation
+    Treating Phobias
+    - Systematic Desensitization: pairing relaxation with succession of feared stimulus
+        -Imaginal Desensitization: imagining the phobic stimulus
+        -In Vivo Desensitization: clincian presents the phobic stimulus
 
-    Rescorla Wagner model does not explain all conditioning phenomena.
+        1) Create a hierarchy of fear producing situations
+        2) Teach relaxation skills
+        - muscle tension reduction
+        - relaxed breathing
+        - attention focusing
+        3) Progress through the hierarchy
 
-Phobias: An excessive or extreme fear response to a stimulus that are not at all dangerous or
-minimally dangerous, mostly.
+        - Counterconditioning
+        A CS that elicits one type of response is associated with an event that elicits an incompatible response.
+        "they can only feel one not both"
 
-ex: developing a Phobias
-Back seat of car (NS): Pain from Accident (US) -> Fear (UR)
-Back seat of car (CS) -> Fear (CR)
+    - Flooding
+        Behavioural treatment that involves prolonged exposure to a feared stimulus. Downside is that there are lots of stress and
+        medical complications. "bruteforce"
 
-Factors that Impact Phobia Development
-    - Observational learning: w/o direct confrontations just by watching others
-    Snake on TV (NS): Look of fear from Mom's face (US) -> Fear (UR)
-    Snake on TV (CS) -> Fear (CR)
-    - temperament: INDIVIDUAL's level of emotional reactivity, genetically determined
-    - preparedness: learn certain types of behaviours/associations more easily than others, easier to develop fear of spiders than flowers
-    - incubation: strengthening of a conditioned fear response
-    - US re-evaluation: exposure to a US of a different intensity
-    - selective sensitization: exposure to an unrelated stressful event, external factors added on.
+    - Hybrid Approaches
+        Combination of more than one basic approach
 
-Treating Phobias
-- Systematic Desensitization: pairing relaxation with succession of feared stimulus
-    -Imaginal Desensitization: imagining the phobic stimulus
-    -In Vivo Desensitization: clincian presents the phobic stimulus
+    - Aversion Therapy
+        Using an unpleasant US/UR to condition a previously-pleasant (but unwanted) CS/CR.
+        ex a pill that makes consequences for people who drinks
 
-    1) Create a hierarchy of fear producing situations
-    2) Teach relaxation skills
-    - muscle tension reduction
-    - relaxed breathing
-    - attention focusing
-    3) Progress through the hierarchy
+    Chapter 6
 
-    - Counterconditioning
-    A CS that elicits one type of response is associated with an event that elicits an incompatible response.
-    "they can only feel one not both"
+    Operant Conditioning: is learning where the future frequency or probability of behaviour is controlled by its consequences.
 
-- Flooding
-    Behavioural treatment that involves prolonged exposure to a feared stimulus. Downside is that there are lots of stress and
-    medical complications. "bruteforce"
+    Law of Effect (Edwin Thorndike)
+    Behaviours leading to a satisfying state of affairs are strengthend/stamped in, while unsatisfying ones are weakened/stamped out
+        - discovered by puzzel box experiments with cats
 
-- Hybrid Approaches
-    Combination of more than one basic approach
+    Skinner Box (Operant conditioning chamber)
+    Automotaed box to measure animal behaviour and provide outcomes based on that behaviour. Animal "free to respond" at any rate and time
 
-- Aversion Therapy
-    Using an unpleasant US/UR to condition a previously-pleasant (but unwanted) CS/CR.
-    ex a pill that makes consequences for people who drinks
+    Operant Behaviour (R): a class of emitted responses that result in certain consequences which affects
+    the future frequency of these responses. -> means emitted or voluntarly
+        EX:
+        Curse at parents (R) -> Grounded -- results in less likely to curse at parents in the future
+        Child yells for candy (R) -> Parents give child candy -- results in child for yelling
 
-Chapter 6
+    Operant Consequences
+        I) Reinforcers (SR): increases the frequency of behaviour
+        II) Punishers (SP): decreases
 
-Operant Conditioning: is learning where the future frequency or probability of behaviour is controlled by its consequences.
+    Discriminative stimulus (SD): the presence of which responses are reinforced and in the absence of which they are not reinforced.
+        EX
+        Parents Home (SD): Make a mess (R) -> Grounded (SP)
 
-Law of Effect (Edwin Thorndike)
-Behaviours leading to a satisfying state of affairs are strengthend/stamped in, while unsatisfying ones are weakened/stamped out
-    - discovered by puzzel box experiments with cats
+        Descriminative stimulus for extinction: signals absence of reinforcement or punishment (S-delta)
+        EX
+        Parents home (SD): Throw party (R) -> Grounded (SP)
+        Parents away (S-Delta) -> --
 
-Skinner Box (Operant conditioning chamber)
-Automotaed box to measure animal behaviour and provide outcomes based on that behaviour. Animal "free to respond" at any rate and time
+    Four Types of Outcome Contingencies
+        Reinforcement: encourage the response
+            - Positive (SR+) presentation of stimulus after response, behaviour is strengthened
+                Child yells in store (R) -> Give them what they want (SR+) | result: child more likely to yell in store
+            - Negative (SR-) presentation of aversive or unwanted stimulus is removed, beavhiour is strengthened
+                Take medication for headache (R) -> Headache goes away (SR-) | result: take medication when headache occurs
+            
+            Escape behaviour: results in termination, behaviour strengthen
+            Avoidance behaviour results in prevention, behaviour strengthen
 
-Operant Behaviour (R): a class of emitted responses that result in certain consequences which affects
-the future frequency of these responses. -> means emitted or voluntarly
-    EX:
-    Curse at parents (R) -> Grounded -- results in less likely to curse at parents in the future
-    Child yells for candy (R) -> Parents give child candy -- results in child for yelling
+        Punishment: decrease the likelyhood of response
+            - Positive (SP+) presentation of stimulus after response, behaviour is weakened
+                Speeding (R) -> Cop gives ticket (SP+) | result: less likely to speed
+            - Negative (SP-) presentation of stimulus is removed, behaviour is weaked
+                Child swears at dinner table (R) -> Sent to room (SP-) | result: less likely to swear at dinner table
+            
+            Time-out: loss of access to most/all positive reinforcers for a brief period of time
+            Reponse cost: removal of a specific reinforcer
 
-Operant Consequences
-    I) Reinforcers (SR): increases the frequency of behaviour
-    II) Punishers (SP): decreases
-
-Discriminative stimulus (SD): the presence of which responses are reinforced and in the absence of which they are not reinforced.
-    EX
-    Parents Home (SD): Make a mess (R) -> Grounded (SP)
-
-    Descriminative stimulus for extinction: signals absence of reinforcement or punishment (S-delta)
-    EX
-    Parents home (SD): Throw party (R) -> Grounded (SP)
-    Parents away (S-Delta) -> --
-
-Four Types of Outcome Contingencies
-    Reinforcement: encourage the response
-        - Positive (SR+) presentation of stimulus after response, behaviour is strengthened
-            Child yells in store (R) -> Give them what they want (SR+) | result: child more likely to yell in store
-        - Negative (SR-) presentation of aversive or unwanted stimulus is removed, beavhiour is strengthened
-            Take medication for headache (R) -> Headache goes away (SR-) | result: take medication when headache occurs
+        Immediate Vs Delayed Reinforcement
+            - The more dealyed a reinforcer after behaviour, the weaker the effect. Immediate is better for learning
         
-        Escape behaviour: results in termination, behaviour strengthen
-        Avoidance behaviour results in prevention, behaviour strengthen
+        Primary and Secondary Reinforcers
+            Primary (unconditioned): Biologically determined or survival value for the individual
+            Secondary (conditioned): Previously neutral stimulus that has been repeatedly paired with an established reinforcer
+                Generalized secondary reinforcers: reinforcer that are paired with a wide variety of other primay reinforcers. Ex. money
 
-    Punishment: decrease the likelyhood of response
-        - Positive (SP+) presentation of stimulus after response, behaviour is weakened
-            Speeding (R) -> Cop gives ticket (SP+) | result: less likely to speed
-        - Negative (SP-) presentation of stimulus is removed, behaviour is weaked
-            Child swears at dinner table (R) -> Sent to room (SP-) | result: less likely to swear at dinner table
+        Intrinsic Reinforcement: the mere act of performing the behaviour
+        Extrinsic Reinforcement: some consequence that is external to the behaviour
+
+        Natural Reinforcers: provided for certain behaviours | ex. putting something up for sale and getting money for it
+        Contrived Reinforcers: arranged to modify a behabiour; not a typical consequence | ex. studying for 1hr leads to 12hrs of whatever you want
+
+        Shaping: gradual creation or steps of a new behaviour through reinforcement of successively closer approximations. "creating new baseline"
+
+    Chapter 7 Feb 28, 2025
+
+    Schedule of reinforcement
+    the response requirement thtat must be met to obtain reinforcement
+
+        1) Continuous Reinforcement Schedule (CRF)
+            Reinforce a behaviour every time it occurs
+            Fast learning, labour intensive, extinction can occur quickly
+        2) Partial reinforcement schedules (PRF)
+            Only some responses are reinforced
+            slower learning, less labour, more resistant to extinction
+
+            Ratio Schedules: require a certain number of responses to be performed before a reinforcer is delivered
+                I) Fixed ration (FR): number of responses is known to the orgainism, some pauses
+                II) Variable Ratio (VR): number of responses is not predictable but averagely similar, no pauses here, high steady
+
+                Ratio Strain: disruption in responding due to an overly demanding response requirement
+                Post reinforcement pauses: breaks after a reinforcer
+
+            Interval Schedules: reinforce first behaviour after period of time has elapsed
+                III) Fixed Interval (FI): first reponse after a specific period of time leads to the delivery of reinforcer,
+                    scalloped shaped graph
+                IV) Variable Interval (VI): first response after a varying, unpredictable period of time, steady Rate,
+                    nearly no pausing, moderate rate
+            
+        Simple schedule: to describe schedules of reinforcemnt that only have one requirement to be satisfied
+        for reinforcement to be delivered
+            - Duration schedules: reinforcement is contingent on performing a behaviour continuously throughout a period of time
+                Fixed duration schedule (FD): behaviour must be performed continuously for a fixed, predicatbale period of time
+                Variable duration schedule (VD): behaviour must be performed continuously for a varying, unpredictable period of time
+
+            - Response rate schedules: directly contingent upon the organism's rate of response
+                Differential Reinforcements of High Rates (DRH): "at lease" or minimum specified
+                ... of Low Rates (DRL): "no more than" or maximum specified
+                ... of paced responding (DRP): creates lower and upper bounds of an action 
+            
+            - Noncontingent Schedules: reinforcer is delivered independently of any response. Response is not required for the reinforcer to be obtained
+                Fixed Time (FT) schedule: fixed, predictable period of time, regardless of the organism's behaviour
+                Variable Time (VT) schedule: varying, unpredictable period of time, regardless of organism's behaviour
         
-        Time-out: loss of access to most/all positive reinforcers for a brief period of time
-        Reponse cost: removal of a specific reinforcer
+        Complex Schedules of Reinforcement: a combination of two or more simple schedules
+            - Conjuctive schedules: two or more simple schedules must be met before a reinforcer is delivered
+            - Adjusting schedules: response requirement changes as a function of the organism's performance while responding for the previous reinforcer
+            - Chained schedules: consits fo a sequence of two or more simple schedules followed in a terminal reinforcer.
+                - weaker in earlier links aka the goal gradient effect (GGE)
 
-    Immediate Vs Delayed Reinforcement
-        - The more dealyed a reinforcer after behaviour, the weaker the effect. Immediate is better for learning
+        Theories of Reinforcement
+        1) Drive Reduction Theory
+            An event is reinforcing to the extent that it is associated with a reduction of some physiological drive.
+            Similar to Hell (or Neobehaviourism)
+
+        2) The Premack Principles
+            Based on the notion that reinforcers can often be viewed as behaviours rather than observable stimuli
+            High-probability behaviour (HPB): likely to do
+            Low-probability behaviour (LPB): less likely to do
+            "the high probability" becomes the reinforcer of the "low probability behaviour"
+
+        3) Response Deprivation Hypothesis
+            behaviour can serve as a reinforcer when:
+                1. access to the behaviour is restricted
+                2. its frequency thereby falls below its preferred level of occurrence
+            this makes the action of wanted the remaining access to behaviour as a reinforce.
+
+        4) Behavioural Bliss Point Approach
+            an organism with free access to alternative activities will distribute its behaviour in such a way
+            as maximize overall reinforcement. They will distribute its activities in such ways to draw as near
+            to the bliss point as possible.
+
+    Chapter 8
+
+    Stimulus Control: presence of an SD reliably affects the probability of the behaviour being expressed. uses the term "evokes"
+
+    Stimulus Generalization in Operant Conditioning
+    The likelyhood of a response being emitted that had a consequence associated with it
+        Generalization gradient: a method of depicting the strength of responding in the presence of 
+
+    Stimulus descrimination
+    tendency for an operant response to be emitted more in the presence of one stimulus than another
+
+    SD exerts stimulus control over the behaviour
+    SD evokes the behaviour
+
+    Peak Shift Effect
+    The peak of a generalization gradient following discrimination training will shift fromt he SD to a stimulus that's further
+    removed from the S-Delta
+
+    Excitation develops around SD
+    Inhibition develops around S-Delta
+
+    Mutiple schedules used to study stimulus control
+    Consist of two or more independent schedules presented in sequence each resulting in reinforcement and each havin a distinctive SD
+
+    Behavioural Contrast: when the change in the rate of reinforcement on one component produces an opposite change in the rate of response
+    Negative contrast effect: An increase in the rate of reinforcement on one component produces a decrease in the rate of reponse (2nd goes down)
+    Postive contrast effect: A decrease in the rate of reinforcement on one component produces a increase in the rate of response (2nd goes up)
+
+    Anticipatory Contrast
+    Rate of response varies inversely with an upcoming change in the rate of reinforcement
+
+    Fading and Errorless descrimination training
+        - A gradual training procedure that minimizes the number of errors where the faded thing that turns bold will be ignored
+        - training animals go through this regime
+
+Exam 3
+Chapter 9
+
+Escape and Avoidance
+Escape Behaviour: performance of a behaviour that terminates an aversive stimulus
+Avoidance Behaviour: prevents the aversive stimulus from occuring
+
+Shuttle Avoidance Procedure
+    Escape Behaviour:
+        Shock (SD): Cross Barrier (R) -> Removal of Shock (SR)
+    Avoidance Behaviour:
+        Light (SD): Cross Barrier (R) -> Avoidance of Shock (SR)
+
+Mower's Two-Process Theory of Avoidance
+    two processes are involved in learning an avoidance response
     
-    Primary and Secondary Reinforcers
-        Primary (unconditioned): Biologically determined or survival value for the individual
-        Secondary (conditioned): Previously neutral stimulus that has been repeatedly paired with an established reinforcer
-            Generalized secondary reinforcers: reinforcer that are paired with a wide variety of other primay reinforcers. Ex. money
-
-    Intrinsic Reinforcement: the mere act of performing the behaviour
-    Extrinsic Reinforcement: some consequence that is external to the behaviour
-
-    Natural Reinforcers: provided for certain behaviours | ex. putting something up for sale and getting money for it
-    Contrived Reinforcers: arranged to modify a behabiour; not a typical consequence | ex. studying for 1hr leads to 12hrs of whatever you want
-
-    Shaping: gradual creation or steps of a new behaviour through reinforcement of successively closer approximations. "creating new baseline"
-
-Chapter 7 Feb 28, 2025
-
-Schedule of reinforcement
-the response requirement thtat must be met to obtain reinforcement
-
-    1) Continuous Reinforcement Schedule (CRF)
-        Reinforce a behaviour every time it occurs
-        Fast learning, labour intensive, extinction can occur quickly
-    2) Partial reinforcement schedules (PRF)
-        Only some responses are reinforced
-        slower learning, less labour, more resistant to extinction
-
-        Ratio Schedules: require a certain number of responses to be performed before a reinforcer is delivered
-            I) Fixed ration (FR): number of responses is known to the orgainism, some pauses
-            II) Variable Ratio (VR): number of responses is not predictable but averagely similar, no pauses here, high steady
-
-            Ratio Strain: disruption in responding due to an overly demanding response requirement
-            Post reinforcement pauses: breaks after a reinforcer
-
-        Interval Schedules: reinforce first behaviour after period of time has elapsed
-            III) Fixed Interval (FI): first reponse after a specific period of time leads to the delivery of reinforcer,
-                scalloped shaped graph
-            IV) Variable Interval (VI): first response after a varying, unpredictable period of time, steady Rate,
-                nearly no pausing, moderate rate
-        
-    Simple schedule: to describe schedules of reinforcemnt that only have one requirement to be satisfied
-    for reinforcement to be delivered
-        - Duration schedules: reinforcement is contingent on performing a behaviour continuously throughout a period of time
-            Fixed duration schedule (FD): behaviour must be performed continuously for a fixed, predicatbale period of time
-            Variable duration schedule (VD): behaviour must be performed continuously for a varying, unpredictable period of time
-
-        - Response rate schedules: directly contingent upon the organism's rate of response
-            Differential Reinforcements of High Rates (DRH): "at lease" or minimum specified
-            ... of Low Rates (DRL): "no more than" or maximum specified
-            ... of paced responding (DRP): creates lower and upper bounds of an action 
-        
-        - Noncontingent Schedules: reinforcer is delivered independently of any response. Response is not required for the reinforcer to be obtained
-            Fixed Time (FT) schedule: fixed, predictable period of time, regardless of the organism's behaviour
-            Variable Time (VT) schedule: varying, unpredictable period of time, regardless of organism's behaviour
+    Problems with this theory:
+    1) avoidance responses extremely persistent
+    Anxiety Conservation Hypothesis: avoidance responses happen so quickly that
+    there's insufficient exposure to the CS for the conditioned fear to fully extinguish
     
-    Complex Schedules of Reinforcement: a combination of two or more simple schedules
-        - Conjuctive schedules: two or more simple schedules must be met before a reinforcer is delivered
-        - Adjusting schedules: response requirement changes as a function of the organism's performance while responding for the previous reinforcer
-        - Chained schedules: consits fo a sequence of two or more simple schedules followed in a terminal reinforcer.
-            - weaker in earlier links aka the goal gradient effect (GGE)
+    2) after a great number of trials, animals continue to avoid, but show no evidence of fear
 
-    Theories of Reinforcement
-    1) Drive Reduction Theory
-        An event is reinforcing to the extent that it is associated with a reduction of some physiological drive.
-        Similar to Hell (or Neobehaviourism)
+One-Process Theory
+Reduction of shocks is the primary cause of avoidance behaviour
 
-    2) The Premack Principles
-        Based on the notion that reinforcers can often be viewed as behaviours rather than observable stimuli
-        High-probability behaviour (HPB): likely to do
-        Low-probability behaviour (LPB): less likely to do
-        "the high probability" becomes the reinforcer of the "low probability behaviour"
-
-    3) Response Deprivation Hypothesis
-        behaviour can serve as a reinforcer when:
-            1. access to the behaviour is restricted
-            2. its frequency thereby falls below its preferred level of occurrence
-        this makes the action of wanted the remaining access to behaviour as a reinforce.
-
-    4) Behavioural Bliss Point Approach
-        an organism with free access to alternative activities will distribute its behaviour in such a way
-        as maximize overall reinforcement. They will distribute its activities in such ways to draw as near
-        to the bliss point as possible.
-
-Chapter 8
-
-Stimulus Control: presence of an SD reliably affects the probability of the behaviour being expressed. uses the term "evokes"
-
-Stimulus Generalization in Operant Conditioning
-The likelyhood of a response being emitted that had a consequence associated with it
-    Generalization gradient: a method of depicting the strength of responding in the presence of 
-
-Stimulus descrimination
-tendency for an operant response to be emitted more in the presence of one stimulus than another
-
-SD exerts stimulus control over the behaviour
-SD evokes the behaviour
-
-Peak Shift Effect
-The peak of a generalization gradient following discrimination training will shift fromt he SD to a stimulus that's further
-removed from the S-Delta
-
-Excitation develops around SD
-Inhibition develops around S-Delta
-
-Mutiple schedules used to study stimulus control
-Consist of two or more independent schedules presented in sequence each resulting in reinforcement and each havin a distinctive SD
-
-Behavioural Contrast: when the change in the rate of reinforcement on one component produces an opposite change in the rate of response
-Negative contrast effect: An increase in the rate of reinforcement on one component produces a decrease in the rate of reponse (2nd goes down)
-Postive contrast effect: A decrease in the rate of reinforcement on one component produces a increase in the rate of response (2nd goes up)
-
-Anticipatory Contrast
-Rate of response varies inversely with an upcoming change in the rate of reinforcement
-
-Fading and Errorless descrimination training
-    - A gradual training procedure that minimizes the number of errors where the faded thing that turns bold will be ignored
-    - training animals go through this regime
+Avoidance and Phobias
+    Mineka:
+        - nature of what's being avoided is different
+        - difference in the time to learn and strength of avoidance response between
+        experimental and phobic conditioning.
+    Stampfl:
+        1) reliable establishment of a fear response with only a single brief pairing of the CS and US
+        2) avoidance of the CS and the US
+        3) occurrence of successful avoidance on 100% of trials
