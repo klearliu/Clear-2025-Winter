@@ -718,3 +718,72 @@ Avoidance and Phobias
         1) reliable establishment of a fear response with only a single brief pairing of the CS and US
         2) avoidance of the CS and the US
         3) occurrence of successful avoidance on 100% of trials
+        
+        a contraption called an automated alleyway
+
+Avoidance and OCD
+    OCD: Obsessive compulsive disorder. A disorder characterized by persistent thoughts, impulses or images, and
+    repetitive stereotyped actions.
+
+    - Anxiety is the classically conditioned response elicited by exposure to, and thinking about a stimulus
+    - Compulsive action is the operant response that is negatively reinforced by reduction in anxiety
+
+Recap: Positive Punishment and Negative Punishment
+    Positive: Behaviour decreases due to the presentation of consequences
+    Negative: Behaviour decreases due to removal of consequence
+
+Types of Negative Punishment
+    Time-out: Loss of access to "usually all positive reinforcers" for a brief period of time following the occurrence of a problem behaviour
+    Response cost: removal of a "specific reinforcer" following the occurrence of a problem behaviour
+
+    Recall negative punishment means removal of something 
+    Extinction perfoming the behaviour that no longer leads to the provided
+
+    Instrinsic punishment: punishment that is an inherent aspect of the behaviour being punished
+        ex. feeling sore after a workout
+    Extrinsic punishment: punishment that is not an inherent aspect of the behaviour being punished
+        ex. losing a laptop everytime someone does drugs (kind of like an added bit that is unrelated)
+    
+Primay Punisher: an event that is innately punishing
+Secondary Punisher: an event that has become punishing because it has been associated with some other punisher
+
+Prombolems with Punishment
+1) Punishing a maladaptive behaviour does not directly strengthen the occurrence of appropriate or adaptive behaviour
+2) May result in generalized suppression of behaviour
+3) Person giving punishment may become SD for punishment
+4) May teach to avoid person who delivered punishment
+5) Elicit a strong emotional response
+6) Elicit an aggressive reaction
+7) Could teach another that punishment is a good way to control behaviour
+8) Punishment strongly reinforced and thus becomes overused
+
+Benefits of using Punishment
+1) Can sometimes lead to increase in social behaviour
+2) Sometimes results in an improvement of mood
+3) Increase attention to the environment
+
+Effective use of Punishment
+1) Should be immediate rather than delayed
+2) Should consistently follow each occurrence of the unwanted behaviour
+3) Should be intense enough to suppress the target behaviour
+4) Negative punishment is preferable to positive punishment
+5) More effective when accompanied by an explanation
+6) Punishment of inappropriate behviour should be combined with positive reinforcement for appropriate behaviour
+
+Theories of Punishment
+    Conditioned suppression theory
+    Assumes that punishment does not weaken a behaviour but produces an emotional response that interferes with the occurrence of behaviour
+
+    Avoidance Theory
+    Holds that punishment actually involves a type of avoidance conditioning in which the avoidance response consists of any
+    behaviour other than the behaviour being punished (punished gets weaker, but the other strengthens)
+
+    Premack Approach
+    Assumes a low-probability behaviour can be used to punish a high-probability behaviour
+
+Learned Helplessness
+    A decrement in learning ability that results from repeated exposure to uncontrollable aversive events
+    - Learned helplessness can also force organism to escape aversive stimulus and graded series of tasks (simple to complex)
+
+Experimental Neurosis
+An experimentally produced disorder in which animals exposed to unpredictable events develop neurotic-like symptoms
