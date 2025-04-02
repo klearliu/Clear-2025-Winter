@@ -878,4 +878,54 @@ Theories of Self-Control
         - each individual choice that counters with other choices (small one-off's/temptations)
         - to defeat this, you must keep track of behaviour
 
+Chapter 11
+Observational Learning: when the behaviour is witnessed by an observer and the observer's behaviour is subsequently changed.
 
+Contagious Behaviour: more or less instinctive or reflexive behaviour
+    - Involuntary response (yawning)
+    - Fear behaviour (running)
+    - Social interaction and bonding (laughing)
+    - Orienting repsonse (looking at a certain direction)
+
+Stimulus Enhancement
+Probablity of behaviour is changed due an individual's attention is drawn to a particular item/location
+(grabbing a magazine in a waiting room may result you to do the same)
+
+OL in classical conditioning
+    Classically conditioned emotional responses that result from seeing those emotional responses exhibited by others
+
+    Tone (NS): Look of fear in others (US) -> Fear in oneself (UR)
+    Tone (CS) -> Fear in onself (CR)
+
+Acquisition: learning how to do something
+    Observer must pay attention to model
+    Very sensitive to consequences of model's behaviour
+Performance: putting the knowledge to use
+
+OL translates into behaviour via reinforcement and punishment
+    1) vicarious reinforcement or punishment increases/decrese likelihood of performing modeled behaviour
+    2) outcomes of attempting modeled behaviour matter
+    3) history with performing modeled behaviour
+
+Imitation
+    True Imitiation: close duplicate of a novel behaviour
+    Generalized Imitation: a new modeled behaviour with no specific reinforcement
+
+Bandura Socal Learning and Aggression
+"bobo doll" studies: aggressive reactions and behaviour often learned observationally
+    If an adult acts aggressively the child does so too and vice-versa
+
+Rule Governed Behaviour: rule and instuctions can lead to rapidly establishment of behaviour, don't need to actually experience
+contingencies to learn.
+Disadvantage, physically doing the event is different then the rules
+
+Rule: a verbal description of Contingency
+Instruction: a description of what an individuals should do, how to respond
+
+Personal rules
+Say-do corresondences, doing what you say.
+
+Bright-boundary: a clear definition with full details in a group or category
+Personal Process Rule: personal rule that indicates the specific by which a task should be completed
+
+Chapter 12
