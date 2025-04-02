@@ -787,3 +787,95 @@ Learned Helplessness
 
 Experimental Neurosis
 An experimentally produced disorder in which animals exposed to unpredictable events develop neurotic-like symptoms
+
+Chapter 10
+
+Choice is a decision between two or more behaviours. Concurrent payoff schedules
+
+Concurrent Schedules of Reinforcement
+two or more independant schedules each leading to a reinforcer
+    - Ratio Vs Ratio; which schedule pays off more (FR4 vs FR5, 4 tasks for 1 reword or 5 tasks for 1 reward)
+
+Herrnstein
+Animals systematically match their behaviour to the amount of reinforce they can earn, graph proved +'ve linear
+
+Matching Law
+proportion of responses on a particular schedule matches the proportion of reinforcers
+Ra/(Ra + Rb) = SRA/(SRA + SRB)
+R is the number of responses emitted
+SR is the number of reinforcers earned
+A or B relates to the schedule
+
+Example:
+Channel X advertises = 20s
+Channel Y advertises = 40s
+What proportion of responses (channel changes) to Channel X will be made
+
+    Channel X = VI20
+    Channel Y = VI40
+
+    Let's use 5mins or 300s to answer this
+
+    Channel X
+        300 / 20
+        15 reinforcers earned in 300 seconds
+    
+    Channel Y
+        300 / 40
+        7.5 reinforcers earned in 300 seconds
+    
+    Now using the equation:
+    Responses ON X: SRA/(SRA + SRB) -> 15/(15+7.5) = 15/22.5 or 66.67%
+
+Example
+In 1 hr:
+    Person A was tracked 20 times
+    Person B 10 times
+    Proportion of reinforcement is tracked from Person B
+
+    So here since they gave us a constant time we can directly go into the formula
+
+    Ra/(Ra + Rb) but will start with B since we are sking FROM PERSON B
+    10/(10+20) = 33.33%
+    33.33% is proportion of reinforcement to Person B
+
+In matching sometimes there are deviations from matching
+1) Undermatching - richer is lower
+2) Overmatching - richer is higher or spread is higher
+3) Bias from matching - regardless of richer or poor that same schedule is selected
+
+Bias is a precise way to measure preferences in animals
+
+Self control is the choice of a dealyed but overall more valued option rather than immediate but less valued.
+
+Skinner's View of Self-Control: choice between conflicting outcomes
+    Controlling response: alter the frequency of controlled response, ex only bringing $50 to a store
+    Controlled response: response that needs to be altered, ex how much spending was done
+
+Physical Restraint, giving something away so you won't have access to it
+Depriving and Satiating, doing alternatives that are similar to the responses
+Doing Something else, distraction
+Self-reinforcement and self-punishment, give yourself a reward
+    often doesn't work (short-circuiting), consuming reward without fully enging in the intended behaviour
+
+Temporal Perspective: choice between immediate vs delayed consequences
+
+Theories of Self-Control
+    1) Mischel's Delay of Gratification Paradigm
+        - how long a person or animal can wait for a better reward (ex marshmallow test)
+        - if you can distract yourself you end up completeing the challenge
+    2) The Ainslie-Rachlin Model
+        - Smaller sooner reward
+        - Larger later reward
+        The closer to the reward the more valuable it is.
+        On the graph it tends to be a exponetial shape.
+        Controllling factors:
+            - experience with delayed rewards
+            - other sources of reinforcement
+            - number of subgoals
+        - if you can make a commited response it will eliminate or greatly reduce the value of upcoming temptation
+    3) The Small-but-Cumulative Effects Model
+        - each individual choice that counters with other choices (small one-off's/temptations)
+        - to defeat this, you must keep track of behaviour
+
+
